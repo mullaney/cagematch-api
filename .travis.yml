@@ -1,5 +1,11 @@
 language: ruby
 rvm:
-  - 2.4.2
+- 2.4.2
 script:
-  - bundle exec rspec
+- bundle exec rspec
+deploy:
+  provider: heroku
+  api_key:
+    secure: orocgAX2L/D97lprwNnValN/ynDFq5qGjRkuMziDmBQ7LZGONHTJn5sulOdZg72C/lPgr2m2KJpI02AYTc46fZx1oQk1nq63X+0b/DaSSz6S4uzMjFfERGqh1IEef5rlqq8miv28/JVmQNx/knO4jbqIn5OS7kQhWuLcxS2rpQPeruW6kYIemSE3Uz5fPmpKCTsi4D1DHlAFmv800zIOBxofiU2HWPiOiC09aDgcP79VyFp0z28JnXXD1WHG1Y99Y3wBpZfneM6tvMq8Ju2/LcwXpyOxtk6PhGsRQ/3OTM32itz3cs/wk59FBHPZIID6rwWjI8zDHYd8KIWqNnNq/TPtfu5A0RqgzYwclOjbVO/aueblYK5wqAZSJL6ivZ0oTfsG7LYxWc8umn2jcESX12MnnCza0kvfQYqPD4hru/pIrZMdgRHgZZiTDYwwXilWGvAWTc86Ni89eECLwo956VbezNZ6Q4wnWwbUSBHL9z8NGx6clEzAVlvVjwY1Xj26poFsgJvB9dS82dwINgINIDQ07QULNIvfmjxBrxnatuxeKc6nih6GkajM6vS/Xxpq9jas6bnIqBZh+wCTiYtmA7P1p4VLqSxy3Rxl/QbnUy+BhnLKYBlBpovuvMfZ4b9yqbpLTS5Qx3/ODyahRpdxFplIRDBrW8bLD3iOexPBchQ=
+  app:
+    master: cagematch-api
