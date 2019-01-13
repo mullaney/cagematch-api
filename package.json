@@ -1,5 +1,11 @@
 {
   "name": "cagematch-api",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "husky": "^1.3.1"
+  },
+  "scripts": {
+    "prepush": "bundle exec rspec"
+  }
 }
