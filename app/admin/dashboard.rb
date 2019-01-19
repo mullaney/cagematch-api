@@ -9,19 +9,18 @@ ActiveAdmin.register_page "Dashboard" do
         small I18n.t("active_admin.dashboard_welcome.call_to_action")
       end
     end
-
-    # Here is an example of a simple dashboard with columns and panels.
-    #
-    # columns do
-    #   column do
-    #     panel "Recent Posts" do
-    #       ul do
-    #         Post.recent(5).map do |post|
-    #           li link_to(post.title, admin_post_path(post))
-    #         end
-    #       end
-    #     end
-    #   end
+    
+    columns do
+      column do
+        panel "Cagematches" do
+          ul do
+            Cagematch.limit(10).map do |cagematch|
+              li link_to(cagematch.title, admin_cagematch_path(cagematch))
+            end
+          end
+        end
+      end
+    end
 
     #   column do
     #     panel "Info" do
