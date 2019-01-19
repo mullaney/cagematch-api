@@ -6,14 +6,24 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-AdminUser.create!(
-  email: 'kvinklly@gmail.com',
-  password: 'password',
-  password_confirmation: 'password'
-) if Rails.env.development?
-
 Cagematch.create!(
   title: 'Cage-Match NYC',
   slug: 'ucbt-nyc',
   description: 'Welcome to the world\'s most dangerous Improv show, where two mighty teams of gladiators will take the stage to prove who is the best of the best.\n\nThis is not an exhibition. This is a no-holds-barred competition. The audience determines the winner each week via secret ballot. The winner returns the following week to defend their title against a new challenger.',
 )
+
+if Rails.env.development?
+  AdminUser.create!(
+    email: 'kvinklly@gmail.com',
+    password: 'password',
+    password_confirmation: 'password'
+  )
+
+  3.times do
+    Cagematch.create!(
+      title: Faker::Address.city + ' CageMatch',
+      slug: Faker::Internet.slug(nil, '-'),
+      description: Faker::Lorem.paragraph
+    )
+  end
+end
