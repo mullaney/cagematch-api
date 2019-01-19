@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_01_16_044650) do
+ActiveRecord::Schema.define(version: 2019_01_19_182102) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -49,4 +49,14 @@ ActiveRecord::Schema.define(version: 2019_01_16_044650) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "teams", force: :cascade do |t|
+    t.string "name", null: false
+    t.string "tagline"
+    t.bigint "cagematch_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["cagematch_id"], name: "index_teams_on_cagematch_id"
+  end
+
+  add_foreign_key "teams", "cagematches"
 end
