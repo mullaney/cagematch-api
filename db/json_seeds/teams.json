@@ -1,0 +1,1902 @@
+[
+  {
+      "teamid": "1",
+      "name": "Cowbot",
+      "tagline": ""
+  },
+  {
+      "teamid": "2",
+      "name": "The Swarm",
+      "tagline": "Bzzzzzzzzzz"
+  },
+  {
+      "teamid": "3",
+      "name": "Neutrino",
+      "tagline": "The People's Champion"
+  },
+  {
+      "teamid": "4",
+      "name": "Beautiful Cop",
+      "tagline": ""
+  },
+  {
+      "teamid": "5",
+      "name": "Replace Toner",
+      "tagline": ""
+  },
+  {
+      "teamid": "6",
+      "name": "Corndog, Alright",
+      "tagline": ""
+  },
+  {
+      "teamid": "7",
+      "name": "Mother",
+      "tagline": "Mother will make it better"
+  },
+  {
+      "teamid": "8",
+      "name": "Kamikaze",
+      "tagline": ""
+  },
+  {
+      "teamid": "9",
+      "name": "Pole Position",
+      "tagline": ""
+  },
+  {
+      "teamid": "10",
+      "name": "Father",
+      "tagline": ""
+  },
+  {
+      "teamid": "11",
+      "name": "Respecto",
+      "tagline": "G'0 4 it!"
+  },
+  {
+      "teamid": "12",
+      "name": "Dr. Awesome",
+      "tagline": ""
+  },
+  {
+      "teamid": "13",
+      "name": "Value Pack",
+      "tagline": ""
+  },
+  {
+      "teamid": "14",
+      "name": "Muscle",
+      "tagline": ""
+  },
+  {
+      "teamid": "15",
+      "name": "Robot TV",
+      "tagline": ""
+  },
+  {
+      "teamid": "16",
+      "name": "Ice-Nine",
+      "tagline": ""
+  },
+  {
+      "teamid": "17",
+      "name": "Team C.H.U.D.",
+      "tagline": ""
+  },
+  {
+      "teamid": "18",
+      "name": "Fire Hot Burn!",
+      "tagline": ""
+  },
+  {
+      "teamid": "19",
+      "name": "We're Ninjas",
+      "tagline": ""
+  },
+  {
+      "teamid": "20",
+      "name": "WWCFW",
+      "tagline": ""
+  },
+  {
+      "teamid": "21",
+      "name": "Monkeydick",
+      "tagline": "Beware the Ides of Monkeydick"
+  },
+  {
+      "teamid": "22",
+      "name": "Pound",
+      "tagline": ""
+  },
+  {
+      "teamid": "27",
+      "name": "Kartoon Kaos",
+      "tagline": "Kathie Lee and the Legion of Good Meet Ricky Martin and the Loca Power Team!"
+  },
+  {
+      "teamid": "28",
+      "name": "Suppertime",
+      "tagline": ""
+  },
+  {
+      "teamid": "29",
+      "name": "The Joe Ross Tribe",
+      "tagline": ""
+  },
+  {
+      "teamid": "30",
+      "name": "Petrol",
+      "tagline": ""
+  },
+  {
+      "teamid": "31",
+      "name": "Dicktrino",
+      "tagline": ""
+  },
+  {
+      "teamid": "32",
+      "name": "Monuekey",
+      "tagline": ""
+  },
+  {
+      "teamid": "33",
+      "name": "Optimist International",
+      "tagline": "Dr. Side Effects"
+  },
+  {
+      "teamid": "34",
+      "name": "My Kickass Van",
+      "tagline": ""
+  },
+  {
+      "teamid": "35",
+      "name": "The Syndicate",
+      "tagline": ""
+  },
+  {
+      "teamid": "36",
+      "name": "Littleman",
+      "tagline": ""
+  },
+  {
+      "teamid": "37",
+      "name": "The Office",
+      "tagline": "Battle Royale Champions"
+  },
+  {
+      "teamid": "38",
+      "name": "Police Chief Rumble",
+      "tagline": "That's the sound of the police!"
+  },
+  {
+      "teamid": "39",
+      "name": "RRRRRockets",
+      "tagline": ""
+  },
+  {
+      "teamid": "40",
+      "name": "Dillinger",
+      "tagline": "They Want to BLAM! You"
+  },
+  {
+      "teamid": "41",
+      "name": "Stomping Ground",
+      "tagline": ""
+  },
+  {
+      "teamid": "42",
+      "name": "One Big Disappointment",
+      "tagline": ""
+  },
+  {
+      "teamid": "43",
+      "name": "Van Buren",
+      "tagline": "Get Birched"
+  },
+  {
+      "teamid": "44",
+      "name": "gigawatt",
+      "tagline": "A billion watts of love!"
+  },
+  {
+      "teamid": "45",
+      "name": "FILTH",
+      "tagline": "dirrrrty!"
+  },
+  {
+      "teamid": "47",
+      "name": "Trillion",
+      "tagline": "Super Zeroes"
+  },
+  {
+      "teamid": "48",
+      "name": "Shit Storm",
+      "tagline": "Berrebbi Approved"
+  },
+  {
+      "teamid": "49",
+      "name": "Street Meat",
+      "tagline": "Wildcard Team!"
+  },
+  {
+      "teamid": "50",
+      "name": "Bruckheimer",
+      "tagline": ""
+  },
+  {
+      "teamid": "51",
+      "name": "Mysterio",
+      "tagline": ""
+  },
+  {
+      "teamid": "52",
+      "name": "The Corbomite Maneuver",
+      "tagline": ""
+  },
+  {
+      "teamid": "53",
+      "name": "Hanging Out with PAT BAER",
+      "tagline": "The Baer Stays in the Booth?"
+  },
+  {
+      "teamid": "54",
+      "name": "Stomping Ground Plus",
+      "tagline": ""
+  },
+  {
+      "teamid": "55",
+      "name": "Mo-be",
+      "tagline": ""
+  },
+  {
+      "teamid": "56",
+      "name": "Baer Family Warriors",
+      "tagline": "out for Pat!"
+  },
+  {
+      "teamid": "57",
+      "name": "America!",
+      "tagline": "Fuck Yeah!"
+  },
+  {
+      "teamid": "58",
+      "name": "Fantastica",
+      "tagline": "Z-Tizzy in the Hizzy"
+  },
+  {
+      "teamid": "59",
+      "name": "Cagney",
+      "tagline": "The Hardest Working Team in the CageMatch Lotto"
+  },
+  {
+      "teamid": "60",
+      "name": "Cooter",
+      "tagline": "Not related to \"Cooter Shorts\""
+  },
+  {
+      "teamid": "61",
+      "name": "Mailer Daemon",
+      "tagline": "Non-Deliverable!"
+  },
+  {
+      "teamid": "62",
+      "name": "The Interns",
+      "tagline": "The Truth Hurtz"
+  },
+  {
+      "teamid": "63",
+      "name": "The Soul of the Game",
+      "tagline": "May the Schwartz be with You"
+  },
+  {
+      "teamid": "64",
+      "name": "Krompf",
+      "tagline": "Girl on a Couch, y'all"
+  },
+  {
+      "teamid": "65",
+      "name": "The Shoves",
+      "tagline": "Agressive!"
+  },
+  {
+      "teamid": "66",
+      "name": "Moochie Norris",
+      "tagline": "Fear the Fro"
+  },
+  {
+      "teamid": "67",
+      "name": "The Silver Bullet Band",
+      "tagline": "Think Outside the Box"
+  },
+  {
+      "teamid": "68",
+      "name": "Baer Squared",
+      "tagline": "Hanging Around Again"
+  },
+  {
+      "teamid": "69",
+      "name": "I Eat Pandas and Friends",
+      "tagline": "Wicker Man on the Keys"
+  },
+  {
+      "teamid": "70",
+      "name": "Daughters of the Lord",
+      "tagline": "Spover!"
+  },
+  {
+      "teamid": "71",
+      "name": "Bushido Brothers",
+      "tagline": "Ultimate Fighting Champs"
+  },
+  {
+      "teamid": "72",
+      "name": "Ugly Stick",
+      "tagline": "In Cody We Trust"
+  },
+  {
+      "teamid": "73",
+      "name": "Death By Roo Roo",
+      "tagline": "4 Fast 4 Furious"
+  },
+  {
+      "teamid": "74",
+      "name": "Iditarod Stewart",
+      "tagline": "The Porter Mason Project"
+  },
+  {
+      "teamid": "75",
+      "name": "Redheaded Stepchild",
+      "tagline": "Not all Redheads"
+  },
+  {
+      "teamid": "76",
+      "name": "Dark Champions",
+      "tagline": "La Rondtage!"
+  },
+  {
+      "teamid": "77",
+      "name": "Omlette Vision",
+      "tagline": "Billy & Delaney & Secunda"
+  },
+  {
+      "teamid": "78",
+      "name": "Apollo 13",
+      "tagline": "12 Improvisers and a dog"
+  },
+  {
+      "teamid": "79",
+      "name": "Primal Bias",
+      "tagline": "Hiines"
+  },
+  {
+      "teamid": "80",
+      "name": "Hammerkatz",
+      "tagline": "Wicked Wicked"
+  },
+  {
+      "teamid": "81",
+      "name": "The Pearl Brunswick",
+      "tagline": "Musical Improv"
+  },
+  {
+      "teamid": "82",
+      "name": "Ching Chong Bundy",
+      "tagline": "25 Dudes = A CITY"
+  },
+  {
+      "teamid": "83",
+      "name": "The Documentary",
+      "tagline": "Best in Cage"
+  },
+  {
+      "teamid": "84",
+      "name": "Dwayne's Guesthouse",
+      "tagline": "Lex Luthor!"
+  },
+  {
+      "teamid": "85",
+      "name": "No Posers",
+      "tagline": "Guided By Funny"
+  },
+  {
+      "teamid": "86",
+      "name": "The Maneaters",
+      "tagline": "Whoa oh here she comes"
+  },
+  {
+      "teamid": "87",
+      "name": "Best Boy",
+      "tagline": "Key Grips"
+  },
+  {
+      "teamid": "88",
+      "name": "2 Faces of Eve",
+      "tagline": "Clarke & Rhodes"
+  },
+  {
+      "teamid": "89",
+      "name": "Havana Clambake",
+      "tagline": "it takes a million spreadsheets to hold us back"
+  },
+  {
+      "teamid": "90",
+      "name": "Jews",
+      "tagline": ""
+  },
+  {
+      "teamid": "91",
+      "name": "Christians",
+      "tagline": ""
+  },
+  {
+      "teamid": "92",
+      "name": "Nice Squad",
+      "tagline": ""
+  },
+  {
+      "teamid": "93",
+      "name": "Killebrew",
+      "tagline": "A tallboy of funny!"
+  },
+  {
+      "teamid": "94",
+      "name": "Matt & Gavin",
+      "tagline": "We Used To Go Out"
+  },
+  {
+      "teamid": "95",
+      "name": "Beatrice",
+      "tagline": ""
+  },
+  {
+      "teamid": "96",
+      "name": "Homeroom",
+      "tagline": ""
+  },
+  {
+      "teamid": "97",
+      "name": "Liberty Inn",
+      "tagline": "Westside Highway Gang"
+  },
+  {
+      "teamid": "98",
+      "name": "Kid Dervin",
+      "tagline": "Who will sit in the front row?"
+  },
+  {
+      "teamid": "99",
+      "name": "Mini-Wini",
+      "tagline": "(of the fire)"
+  },
+  {
+      "teamid": "100",
+      "name": "Rogue Elephant",
+      "tagline": "SoCo & Lime Time"
+  },
+  {
+      "teamid": "101",
+      "name": "Pegasus PussyFart",
+      "tagline": "Ching Chong Lady"
+  },
+  {
+      "teamid": "102",
+      "name": "Big Tobacco",
+      "tagline": "Thank You For Smoking"
+  },
+  {
+      "teamid": "103",
+      "name": "Chantico Warfare",
+      "tagline": ""
+  },
+  {
+      "teamid": "104",
+      "name": "Hot Sauce",
+      "tagline": "Can they get a hey-yo?"
+  },
+  {
+      "teamid": "105",
+      "name": "Tantrum",
+      "tagline": "Moneybags!"
+  },
+  {
+      "teamid": "106",
+      "name": "1985",
+      "tagline": "Gonna Go Back In Time!"
+  },
+  {
+      "teamid": "107",
+      "name": "Creek Weasel",
+      "tagline": ""
+  },
+  {
+      "teamid": "108",
+      "name": "C, C, + C Improv Factory",
+      "tagline": "Everybody Laugh Now!"
+  },
+  {
+      "teamid": "109",
+      "name": "Piggy Pank",
+      "tagline": "Chubby Penny"
+  },
+  {
+      "teamid": "110",
+      "name": "The Stepfathers",
+      "tagline": "Bzz Bzz"
+  },
+  {
+      "teamid": "111",
+      "name": "Project Improviser",
+      "tagline": "Tagged IN"
+  },
+  {
+      "teamid": "112",
+      "name": "Death League Tea Party",
+      "tagline": "DLTP!"
+  },
+  {
+      "teamid": "113",
+      "name": "Derrick",
+      "tagline": "Outakez"
+  },
+  {
+      "teamid": "114",
+      "name": "Bicker",
+      "tagline": "Pam and Billy"
+  },
+  {
+      "teamid": "115",
+      "name": "Axel Rex",
+      "tagline": ""
+  },
+  {
+      "teamid": "116",
+      "name": "Bombardo",
+      "tagline": "girl power"
+  },
+  {
+      "teamid": "117",
+      "name": "Reuben Williams",
+      "tagline": "mummy squatters"
+  },
+  {
+      "teamid": "118",
+      "name": "T.R.U.C.K.S.",
+      "tagline": ""
+  },
+  {
+      "teamid": "119",
+      "name": "fwand",
+      "tagline": ""
+  },
+  {
+      "teamid": "120",
+      "name": "Creep",
+      "tagline": "hugene!"
+  },
+  {
+      "teamid": "121",
+      "name": "Beverly Hills",
+      "tagline": "Where I Want To Be"
+  },
+  {
+      "teamid": "122",
+      "name": "Bastian",
+      "tagline": "Neverending Funny"
+  },
+  {
+      "teamid": "123",
+      "name": "Tantrum",
+      "tagline": "waaaaaaaaaaaaaaa"
+  },
+  {
+      "teamid": "124",
+      "name": "Kill Your Darlings",
+      "tagline": "Absolom, Improvlom"
+  },
+  {
+      "teamid": "126",
+      "name": "Machine Wash Tuxedo",
+      "tagline": ""
+  },
+  {
+      "teamid": "127",
+      "name": "Jawnee Conroy Allstarz",
+      "tagline": ""
+  },
+  {
+      "teamid": "128",
+      "name": "Sherpa",
+      "tagline": ""
+  },
+  {
+      "teamid": "129",
+      "name": "The Nights of Our Lives",
+      "tagline": ""
+  },
+  {
+      "teamid": "130",
+      "name": "The Law Firm of Rodgers, Pally, Speiller, and Lang",
+      "tagline": ""
+  },
+  {
+      "teamid": "131",
+      "name": "Blackout",
+      "tagline": ""
+  },
+  {
+      "teamid": "132",
+      "name": "Jakijesu",
+      "tagline": ""
+  },
+  {
+      "teamid": "133",
+      "name": "The Golden Bullet Band",
+      "tagline": "random!"
+  },
+  {
+      "teamid": "134",
+      "name": "Fiefdom",
+      "tagline": "Project Champs"
+  },
+  {
+      "teamid": "135",
+      "name": "Working Girls",
+      "tagline": "9 to 5"
+  },
+  {
+      "teamid": "136",
+      "name": "4Track",
+      "tagline": ""
+  },
+  {
+      "teamid": "137",
+      "name": "Slideburgers",
+      "tagline": ""
+  },
+  {
+      "teamid": "138",
+      "name": "The Brothers Hines",
+      "tagline": "Not real doctors, but actual worms."
+  },
+  {
+      "teamid": "139",
+      "name": "Chubby Chase",
+      "tagline": ""
+  },
+  {
+      "teamid": "140",
+      "name": "Happy Kid",
+      "tagline": ""
+  },
+  {
+      "teamid": "141",
+      "name": "Twelve Thousand Dollars",
+      "tagline": "$12k"
+  },
+  {
+      "teamid": "142",
+      "name": "DeCoster",
+      "tagline": ""
+  },
+  {
+      "teamid": "143",
+      "name": "Raynard",
+      "tagline": ""
+  },
+  {
+      "teamid": "144",
+      "name": "Loretta",
+      "tagline": ""
+  },
+  {
+      "teamid": "145",
+      "name": "Retards",
+      "tagline": ""
+  },
+  {
+      "teamid": "146",
+      "name": "Stereotypes",
+      "tagline": ""
+  },
+  {
+      "teamid": "147",
+      "name": "Fat Penguin",
+      "tagline": ""
+  },
+  {
+      "teamid": "148",
+      "name": "Broad Shoulders",
+      "tagline": ""
+  },
+  {
+      "teamid": "149",
+      "name": "The Stamp & Coin Club",
+      "tagline": "Come back Shane!"
+  },
+  {
+      "teamid": "150",
+      "name": "Thank You, Robot",
+      "tagline": "jbobin\\' it"
+  },
+  {
+      "teamid": "151",
+      "name": "Bad Data",
+      "tagline": ""
+  },
+  {
+      "teamid": "152",
+      "name": "Baby Grenade",
+      "tagline": ""
+  },
+  {
+      "teamid": "153",
+      "name": "Load",
+      "tagline": ""
+  },
+  {
+      "teamid": "154",
+      "name": "Daystallion",
+      "tagline": ""
+  },
+  {
+      "teamid": "155",
+      "name": "RAGNAR\u00d6CK",
+      "tagline": "Sweet Alien Melodies"
+  },
+  {
+      "teamid": "156",
+      "name": "Bangs",
+      "tagline": "A proscenium to stage a face that needs no makeup"
+  },
+  {
+      "teamid": "157",
+      "name": "The Scam",
+      "tagline": "totally tanouyed!"
+  },
+  {
+      "teamid": "158",
+      "name": "Snacktime",
+      "tagline": ""
+  },
+  {
+      "teamid": "159",
+      "name": "The Fucking Kennedys",
+      "tagline": "Berrebbi Approved"
+  },
+  {
+      "teamid": "160",
+      "name": "Veal",
+      "tagline": "Musical Improv"
+  },
+  {
+      "teamid": "161",
+      "name": "The Law Firm",
+      "tagline": "criminally insane comedy"
+  },
+  {
+      "teamid": "162",
+      "name": "Whorenado",
+      "tagline": "Nangled up in blue"
+  },
+  {
+      "teamid": "163",
+      "name": "Dogbasket",
+      "tagline": ""
+  },
+  {
+      "teamid": "164",
+      "name": "LD & The Scientist",
+      "tagline": ""
+  },
+  {
+      "teamid": "165",
+      "name": "Ben Rodgers",
+      "tagline": "Harold Night Heartthrob"
+  },
+  {
+      "teamid": "166",
+      "name": "Classic Masculinity",
+      "tagline": "A Bastian of Good Looks"
+  },
+  {
+      "teamid": "167",
+      "name": "Iron Ruckus",
+      "tagline": ""
+  },
+  {
+      "teamid": "168",
+      "name": "forfeit",
+      "tagline": ""
+  },
+  {
+      "teamid": "169",
+      "name": "Oscar Bait",
+      "tagline": ""
+  },
+  {
+      "teamid": "170",
+      "name": "Secret Promise Circle",
+      "tagline": ""
+  },
+  {
+      "teamid": "171",
+      "name": "For Richard Stands",
+      "tagline": ""
+  },
+  {
+      "teamid": "172",
+      "name": "Badman",
+      "tagline": "Now featuring the guitarist from RHCP!"
+  },
+  {
+      "teamid": "173",
+      "name": "The Bishop",
+      "tagline": "Diagonal Checkmate"
+  },
+  {
+      "teamid": "174",
+      "name": "Penthouse Riot",
+      "tagline": "Burn Guccione"
+  },
+  {
+      "teamid": "175",
+      "name": "Robber Baron",
+      "tagline": "Settlers of Funny"
+  },
+  {
+      "teamid": "176",
+      "name": "Scootch",
+      "tagline": "Hal 9000"
+  },
+  {
+      "teamid": "177",
+      "name": "Kape",
+      "tagline": "The \\\"p\\\" stands for Jill!"
+  },
+  {
+      "teamid": "178",
+      "name": "Zuleyka",
+      "tagline": ""
+  },
+  {
+      "teamid": "179",
+      "name": "Froduce",
+      "tagline": ""
+  },
+  {
+      "teamid": "180",
+      "name": "Dreadnought",
+      "tagline": ""
+  },
+  {
+      "teamid": "181",
+      "name": "Dead Presidents",
+      "tagline": ""
+  },
+  {
+      "teamid": "182",
+      "name": "SMIRK",
+      "tagline": "Keepers of the Crystal Ball"
+  },
+  {
+      "teamid": "183",
+      "name": "Daddy",
+      "tagline": ""
+  },
+  {
+      "teamid": "184",
+      "name": "The Landlords",
+      "tagline": ""
+  },
+  {
+      "teamid": "185",
+      "name": "Ghost Fight",
+      "tagline": ""
+  },
+  {
+      "teamid": "186",
+      "name": "Big Ass Movie",
+      "tagline": ""
+  },
+  {
+      "teamid": "187",
+      "name": "Casual Sex Offenders",
+      "tagline": ""
+  },
+  {
+      "teamid": "188",
+      "name": "MADCAR",
+      "tagline": "Gentrify Manhattan"
+  },
+  {
+      "teamid": "189",
+      "name": "Identity Theft",
+      "tagline": "Wants your PIN"
+  },
+  {
+      "teamid": "190",
+      "name": "The Fritz",
+      "tagline": ""
+  },
+  {
+      "teamid": "191",
+      "name": "Monstro",
+      "tagline": "From the Rocks of Coney Island"
+  },
+  {
+      "teamid": "192",
+      "name": "Doppelganger",
+      "tagline": "We will doppelgang bang you"
+  },
+  {
+      "teamid": "193",
+      "name": "Belgian Rattlesnake",
+      "tagline": "Slash\\'s Snake Pit"
+  },
+  {
+      "teamid": "194",
+      "name": "The Opera",
+      "tagline": "Kings of Vengeance"
+  },
+  {
+      "teamid": "195",
+      "name": "Bully",
+      "tagline": "Not so sincere anymore!"
+  },
+  {
+      "teamid": "196",
+      "name": "Sandino",
+      "tagline": "friendly and agreeable people"
+  },
+  {
+      "teamid": "197",
+      "name": "Zamboni!",
+      "tagline": "Hat Trick of Music"
+  },
+  {
+      "teamid": "198",
+      "name": "Tesla",
+      "tagline": "Signs.  Signs.  Everywhere Signs."
+  },
+  {
+      "teamid": "199",
+      "name": "Kickable Dog",
+      "tagline": ""
+  },
+  {
+      "teamid": "200",
+      "name": "Sheldrake Boothroy",
+      "tagline": ""
+  },
+  {
+      "teamid": "201",
+      "name": "Dumpster Tequila",
+      "tagline": ""
+  },
+  {
+      "teamid": "202",
+      "name": "Dog Court",
+      "tagline": ""
+  },
+  {
+      "teamid": "203",
+      "name": "Johnny Cash Money",
+      "tagline": "Ring of Funny"
+  },
+  {
+      "teamid": "204",
+      "name": "Tickles",
+      "tagline": ""
+  },
+  {
+      "teamid": "205",
+      "name": "C, C, + E Improv Factory",
+      "tagline": "We work hard for your laughs"
+  },
+  {
+      "teamid": "206",
+      "name": "The Beatles",
+      "tagline": "She came in through the mimed bathroom window"
+  },
+  {
+      "teamid": "207",
+      "name": "Outlook of the Poet",
+      "tagline": "A line of poetry inspires high-brow improv"
+  },
+  {
+      "teamid": "208",
+      "name": "Dreamboat",
+      "tagline": "2010 Indie Cage Winner"
+  },
+  {
+      "teamid": "209",
+      "name": "Very Good Kiss",
+      "tagline": "Get your lips ready"
+  },
+  {
+      "teamid": "210",
+      "name": "Grandma's Ashes",
+      "tagline": "Crocodile Rockers"
+  },
+  {
+      "teamid": "211",
+      "name": "Standard Oil",
+      "tagline": "Laughs by the Barrel"
+  },
+  {
+      "teamid": "212",
+      "name": "Sunday Morning",
+      "tagline": "Watch out, the world\\'s behind you"
+  },
+  {
+      "teamid": "213",
+      "name": "Get Paid",
+      "tagline": "Now with more Morgan"
+  },
+  {
+      "teamid": "214",
+      "name": "CAPTCHA",
+      "tagline": "overlooks inquiry"
+  },
+  {
+      "teamid": "215",
+      "name": "Dybbuk",
+      "tagline": "Hard to pronounce!  "
+  },
+  {
+      "teamid": "216",
+      "name": "Great Big Dinosaur",
+      "tagline": "Literally!"
+  },
+  {
+      "teamid": "217",
+      "name": "The Curfew",
+      "tagline": "Reuben Starship"
+  },
+  {
+      "teamid": "218",
+      "name": "Jump on Three",
+      "tagline": "Pushing the limits since March 2010. "
+  },
+  {
+      "teamid": "219",
+      "name": "Boy Butter",
+      "tagline": "Lubricating your comedy!"
+  },
+  {
+      "teamid": "220",
+      "name": "8GirlsHarold",
+      "tagline": "0 boys"
+  },
+  {
+      "teamid": "221",
+      "name": "Mr. Crime",
+      "tagline": "Breaking the law"
+  },
+  {
+      "teamid": "222",
+      "name": "Dance Break",
+      "tagline": "don\\'t stop the beat"
+  },
+  {
+      "teamid": "223",
+      "name": "Fran Gillespie",
+      "tagline": "Fran & Friend"
+  },
+  {
+      "teamid": "224",
+      "name": "Diamond Lion",
+      "tagline": "more awesome than a lion"
+  },
+  {
+      "teamid": "225",
+      "name": "Macaroni Rascal",
+      "tagline": ""
+  },
+  {
+      "teamid": "226",
+      "name": "Improv Nerds",
+      "tagline": "If you want drama we can take it right to Cage Match."
+  },
+  {
+      "teamid": "227",
+      "name": "The Shucks",
+      "tagline": "Five odd hunks just \\'provin it. No biggie."
+  },
+  {
+      "teamid": "228",
+      "name": "Code Red",
+      "tagline": ""
+  },
+  {
+      "teamid": "229",
+      "name": "Weekend of Regret",
+      "tagline": ""
+  },
+  {
+      "teamid": "230",
+      "name": "Alan Starzinski\\'s One Mansical",
+      "tagline": ""
+  },
+  {
+      "teamid": "231",
+      "name": "Fuck That Shit",
+      "tagline": "A Comedy Team"
+  },
+  {
+      "teamid": "232",
+      "name": "Creature",
+      "tagline": ""
+  },
+  {
+      "teamid": "233",
+      "name": "Deckard",
+      "tagline": ""
+  },
+  {
+      "teamid": "234",
+      "name": "North Coast",
+      "tagline": "hip-hopera"
+  },
+  {
+      "teamid": "235",
+      "name": "Airwolf",
+      "tagline": "Frooooochboooooning"
+  },
+  {
+      "teamid": "236",
+      "name": "US National Improv Team",
+      "tagline": ""
+  },
+  {
+      "teamid": "237",
+      "name": "Warren",
+      "tagline": "A group of rabbits"
+  },
+  {
+      "teamid": "238",
+      "name": "Spooky Ghost",
+      "tagline": "Look Sharp"
+  },
+  {
+      "teamid": "239",
+      "name": "The Regulars",
+      "tagline": "Gadget Power"
+  },
+  {
+      "teamid": "240",
+      "name": "P.i.G.",
+      "tagline": "Pretty improv Girls"
+  },
+  {
+      "teamid": "241",
+      "name": "The Pox",
+      "tagline": "RagnaPox"
+  },
+  {
+      "teamid": "242",
+      "name": "Nobody\\'s Token",
+      "tagline": "Indie Cage Champs"
+  },
+  {
+      "teamid": "243",
+      "name": "Hoops",
+      "tagline": "Blitzegaio"
+  },
+  {
+      "teamid": "244",
+      "name": "Johnny Romance",
+      "tagline": "Five Starr Comedy"
+  },
+  {
+      "teamid": "245",
+      "name": "GoodGirl",
+      "tagline": "We Should Probably Get This Funeral Started"
+  },
+  {
+      "teamid": "246",
+      "name": "Out of the Woods",
+      "tagline": "Where\\'s Waldo?"
+  },
+  {
+      "teamid": "247",
+      "name": "Bucky",
+      "tagline": "Old Man with Glasses"
+  },
+  {
+      "teamid": "248",
+      "name": "Graceland",
+      "tagline": "Peanut Butter with Banana"
+  },
+  {
+      "teamid": "249",
+      "name": "Good Dad",
+      "tagline": "TourCo Allstarz"
+  },
+  {
+      "teamid": "250",
+      "name": "Kinsey",
+      "tagline": "5 on the scale"
+  },
+  {
+      "teamid": "251",
+      "name": "Surfing",
+      "tagline": "25% Berkeley"
+  },
+  {
+      "teamid": "252",
+      "name": "Greasy Lake",
+      "tagline": "All duded up for Saturday night."
+  },
+  {
+      "teamid": "253",
+      "name": "The Improvised Play",
+      "tagline": "Pause"
+  },
+  {
+      "teamid": "254",
+      "name": "What I did for Love",
+      "tagline": "heart throbs"
+  },
+  {
+      "teamid": "255",
+      "name": "Upstate",
+      "tagline": "YG and D"
+  },
+  {
+      "teamid": "256",
+      "name": "Gadget",
+      "tagline": "Fire Brewed Improv"
+  },
+  {
+      "teamid": "257",
+      "name": "A Sparrow",
+      "tagline": "Sandagnarokolsker"
+  },
+  {
+      "teamid": "258",
+      "name": "Rocky Vee",
+      "tagline": "soft-served"
+  },
+  {
+      "teamid": "260",
+      "name": "Huxtable",
+      "tagline": "Cliff & Claire"
+  },
+  {
+      "teamid": "261",
+      "name": "Mendoza",
+      "tagline": "Paying homage to the late, great Mario Mendoza"
+  },
+  {
+      "teamid": "262",
+      "name": "City Mouse",
+      "tagline": "Aesop Rock"
+  },
+  {
+      "teamid": "263",
+      "name": "Bloody Mary",
+      "tagline": "Drink it. Scream it."
+  },
+  {
+      "teamid": "264",
+      "name": "Scrambled Legs",
+      "tagline": "Never Stirred"
+  },
+  {
+      "teamid": "265",
+      "name": "Powder Keg",
+      "tagline": "You know...like one of those powder kegs that are in books and movies and stuff... "
+  },
+  {
+      "teamid": "266",
+      "name": "Sea Tea Improv",
+      "tagline": "Hailing from Hartford"
+  },
+  {
+      "teamid": "267",
+      "name": "Detroit",
+      "tagline": "Suck My Dick"
+  },
+  {
+      "teamid": "268",
+      "name": "Hotspur",
+      "tagline": "It\\'s showtime"
+  },
+  {
+      "teamid": "269",
+      "name": "Sherlock & Cookies",
+      "tagline": "Elementary"
+  },
+  {
+      "teamid": "270",
+      "name": "Apollo",
+      "tagline": "Sandman"
+  },
+  {
+      "teamid": "271",
+      "name": "Big Margaret",
+      "tagline": "From the John Muir Wildnerness"
+  },
+  {
+      "teamid": "272",
+      "name": "Stripe Club",
+      "tagline": "stripe club. stripe club. stripe club. stripe club."
+  },
+  {
+      "teamid": "273",
+      "name": "Grammar",
+      "tagline": "Southpaw"
+  },
+  {
+      "teamid": "274",
+      "name": "Namaste",
+      "tagline": "Fleetwood "
+  },
+  {
+      "teamid": "275",
+      "name": "First Lady",
+      "tagline": "Let\\'s Move"
+  },
+  {
+      "teamid": "276",
+      "name": "Never Never",
+      "tagline": "Sleeping Over"
+  },
+  {
+      "teamid": "277",
+      "name": "Hungry Boys",
+      "tagline": "tasty, succulent improv"
+  },
+  {
+      "teamid": "278",
+      "name": "Take It Personal",
+      "tagline": "A Tribe Called Yes"
+  },
+  {
+      "teamid": "279",
+      "name": "Kik and Linds",
+      "tagline": "We Caught Smallpox!"
+  },
+  {
+      "teamid": "280",
+      "name": "Gentle Touch",
+      "tagline": "So gentle you won't even feel us."
+  },
+  {
+      "teamid": "281",
+      "name": "Higgins",
+      "tagline": "French Kiss"
+  },
+  {
+      "teamid": "282",
+      "name": "Musk",
+      "tagline": "Distonoptia"
+  },
+  {
+      "teamid": "283",
+      "name": "Big Make Me",
+      "tagline": "Each of them brings something unique to the table; then they destroy it."
+  },
+  {
+      "teamid": "284",
+      "name": "Greg",
+      "tagline": "Louganis"
+  },
+  {
+      "teamid": "285",
+      "name": "Gulf Oil",
+      "tagline": "We The People"
+  },
+  {
+      "teamid": "286",
+      "name": "TOPS!",
+      "tagline": "We'd love to laugh with you."
+  },
+  {
+      "teamid": "287",
+      "name": "Villain",
+      "tagline": "Dead Serious"
+  },
+  {
+      "teamid": "288",
+      "name": "Big Revival",
+      "tagline": "Praise the Lord"
+  },
+  {
+      "teamid": "289",
+      "name": "The Serling",
+      "tagline": "They've made a home in The Twilight Zone. "
+  },
+  {
+      "teamid": "290",
+      "name": "Astronomy Club",
+      "tagline": "Stellar"
+  },
+  {
+      "teamid": "291",
+      "name": "Side Piece",
+      "tagline": "Goomah"
+  },
+  {
+      "teamid": "292",
+      "name": "Smalls",
+      "tagline": "No Biggie"
+  },
+  {
+      "teamid": "293",
+      "name": "Jimmy Fedora",
+      "tagline": "NY's smoothest improv team"
+  },
+  {
+      "teamid": "294",
+      "name": "Boombox",
+      "tagline": "The light, the heat"
+  },
+  {
+      "teamid": "295",
+      "name": "Smokehouse",
+      "tagline": "A shed or room for curing food by exposure to Harolds."
+  },
+  {
+      "teamid": "296",
+      "name": "The Enemy",
+      "tagline": "The Enemy is listening"
+  },
+  {
+      "teamid": "297",
+      "name": "Buchanan",
+      "tagline": "15"
+  },
+  {
+      "teamid": "298",
+      "name": "Women & Men",
+      "tagline": "Bringing with them messages of love"
+  },
+  {
+      "teamid": "299",
+      "name": "RIZZO",
+      "tagline": "Fine Pizza"
+  },
+  {
+      "teamid": "300",
+      "name": "Play by Play",
+      "tagline": "Color Commentary Over Improv"
+  },
+  {
+      "teamid": "301",
+      "name": "My Privacy",
+      "tagline": " A two-man bad boy machine"
+  },
+  {
+      "teamid": "302",
+      "name": "Witch",
+      "tagline": "'Best Lloyd team on paper.' - Pat Regan"
+  },
+  {
+      "teamid": "303",
+      "name": "TourCo",
+      "tagline": "Mad Per Diem"
+  },
+  {
+      "teamid": "304",
+      "name": "Glory Days",
+      "tagline": "These glory days can take their toll"
+  },
+  {
+      "teamid": "305",
+      "name": "Ultimate Body",
+      "tagline": "Here them now believe them later"
+  },
+  {
+      "teamid": "306",
+      "name": "Affirmative Action",
+      "tagline": "Our experiences with the white, straight, liberal elite fetishizing us makes for great improv!"
+  },
+  {
+      "teamid": "307",
+      "name": "GOAT",
+      "tagline": "Death by Bunga Bunga!"
+  },
+  {
+      "teamid": "308",
+      "name": "Curtains",
+      "tagline": "would love if you loved them too"
+  },
+  {
+      "teamid": "309",
+      "name": "Lisa From School",
+      "tagline": " Hey, it's us Lisa. Lisa From School! "
+  },
+  {
+      "teamid": "310",
+      "name": "Area 52",
+      "tagline": "Authorized personnel only."
+  },
+  {
+      "teamid": "311",
+      "name": "32K",
+      "tagline": "Do not Google Image search us"
+  },
+  {
+      "teamid": "312",
+      "name": "Big Time",
+      "tagline": "So much larger than life"
+  },
+  {
+      "teamid": "313",
+      "name": "Fergus",
+      "tagline": "Fergus is the largest community in Centre Wellington"
+  },
+  {
+      "teamid": "314",
+      "name": "Coworkers",
+      "tagline": "A person with whom one works, typically someone in a similar role within an organization."
+  },
+  {
+      "teamid": "315",
+      "name": "Camp",
+      "tagline": "Goes to Camp"
+  },
+  {
+      "teamid": "316",
+      "name": "Classic Brady",
+      "tagline": "I pity the fool who don't like Classic Brady!"
+  },
+  {
+      "teamid": "317",
+      "name": "Ronin",
+      "tagline": "Between employers"
+  },
+  {
+      "teamid": "318",
+      "name": "Mermaids",
+      "tagline": "The upper body of a female human and the tail of a fish"
+  },
+  {
+      "teamid": "319",
+      "name": "Slamball",
+      "tagline": "Slamball began in a small warehouse in Los Angeles"
+  },
+  {
+      "teamid": "320",
+      "name": "Southpaw",
+      "tagline": "  Left handed UCB Lloyd Team"
+  },
+  {
+      "teamid": "321",
+      "name": "Some Kid",
+      "tagline": "A MEAN SCHOLAR"
+  },
+  {
+      "teamid": "322",
+      "name": "This Old House",
+      "tagline": "mommy wet"
+  },
+  {
+      "teamid": "323",
+      "name": "Suburban Adventure",
+      "tagline": "Too Good To Participate in the 3x3 Tournament"
+  },
+  {
+      "teamid": "324",
+      "name": "The Governess",
+      "tagline": "Protestant governess on a remote Scottish island"
+  },
+  {
+      "teamid": "325",
+      "name": "Future Wives",
+      "tagline": "This is your future...and it has a double chin."
+  },
+  {
+      "teamid": "326",
+      "name": "Les Champs",
+      "tagline": "It's French"
+  },
+  {
+      "teamid": "327",
+      "name": "Greasy Lake",
+      "tagline": "All duded up for Saturday night."
+  },
+  {
+      "teamid": "328",
+      "name": "Duran Duran Duran",
+      "tagline": "Like the wolf wolf"
+  },
+  {
+      "teamid": "329",
+      "name": "CARB",
+      "tagline": "Ohydrate"
+  },
+  {
+      "teamid": "330",
+      "name": "Judith",
+      "tagline": "Good Scene"
+  },
+  {
+      "teamid": "331",
+      "name": "Barrymore",
+      "tagline": "1,058-seat"
+  },
+  {
+      "teamid": "332",
+      "name": "The Cocky Nobodies",
+      "tagline": "You've probably heard of us"
+  },
+  {
+      "teamid": "333",
+      "name": "Blush",
+      "tagline": "Pink and Beige "
+  },
+  {
+      "teamid": "334",
+      "name": "Brightlight",
+      "tagline": "The subway she is a porno"
+  },
+  {
+      "teamid": "335",
+      "name": "Dr. Snake",
+      "tagline": "I'm not a real doctor, but I am a real snake."
+  },
+  {
+      "teamid": "336",
+      "name": "Slingshot",
+      "tagline": "hand catapult"
+  },
+  {
+      "teamid": "337",
+      "name": "The Mannequin Room",
+      "tagline": "Get on board"
+  },
+  {
+      "teamid": "338",
+      "name": "Foxhole",
+      "tagline": "Atheist Free"
+  },
+  {
+      "teamid": "339",
+      "name": "Steakhouse",
+      "tagline": "We serve up a wide variety of innovative creations, bold flavors and traditional classics."
+  },
+  {
+      "teamid": "340",
+      "name": "Boyhood",
+      "tagline": "12 years in the making"
+  },
+  {
+      "teamid": "341",
+      "name": "Sleuth",
+      "tagline": "Arrow Icing"
+  },
+  {
+      "teamid": "342",
+      "name": "The Nightmare",
+      "tagline": "Hold the slaw"
+  },
+  {
+      "teamid": "343",
+      "name": "The Union",
+      "tagline": "IKKI"
+  },
+  {
+      "teamid": "344",
+      "name": "Rumpleteaser",
+      "tagline": "Old Possum's Book of Practical Cats"
+  },
+  {
+      "teamid": "345",
+      "name": "Christina & Bailey",
+      "tagline": "2prov from 2monsters"
+  },
+  {
+      "teamid": "346",
+      "name": "Fancy Man",
+      "tagline": "Can be judged on a scale from 1 to 10, a very fancy man being a 10"
+  },
+  {
+      "teamid": "347",
+      "name": "Neutral Milf Hotel",
+      "tagline": "Over the Sea"
+  },
+  {
+      "teamid": "348",
+      "name": "St. Louis Rams",
+      "tagline": "Thinking about moving to L.A."
+  },
+  {
+      "teamid": "349",
+      "name": "Too Big of a Dog",
+      "tagline": "Full of growl and howl and spit and piss."
+  },
+  {
+      "teamid": "350",
+      "name": "HUSH",
+      "tagline": "None of us are named Brian."
+  },
+  {
+      "teamid": "351",
+      "name": "Fluffty",
+      "tagline": "Showing results for Fluffy"
+  },
+  {
+      "teamid": "352",
+      "name": "Horse Girl",
+      "tagline": "A girl who owns a horse and\/or has her social media profile picture set as her and her horse."
+  },
+  {
+      "teamid": "353",
+      "name": "Funky Hard Beats",
+      "tagline": "Block rockin"
+  },
+  {
+      "teamid": "354",
+      "name": "By The Book",
+      "tagline": "And by \"book\" we mean \"stats\""
+  },
+  {
+      "teamid": "355",
+      "name": "Hotel Hotel",
+      "tagline": "Detective Detective"
+  },
+  {
+      "teamid": "356",
+      "name": "Snapshirt",
+      "tagline": "A rag tag team of rouge misfits, ne'er-do-wells, and rapscallions."
+  },
+  {
+      "teamid": "357",
+      "name": "Ice Cold Bev",
+      "tagline": "Yo could I get a cold beverage "
+  },
+  {
+      "teamid": "358",
+      "name": "Judy Big Mouth",
+      "tagline": "What you don't see with your eyes don't invent with your mouth."
+  },
+  {
+      "teamid": "359",
+      "name": "Picture Day",
+      "tagline": "Embodying the beautifully uncomfortable qualities one associates with picture day at school"
+  },
+  {
+      "teamid": "360",
+      "name": "seventeen",
+      "tagline": "I thought he lied when he said take my time to dream."
+  },
+  {
+      "teamid": "361",
+      "name": "Moose",
+      "tagline": "Not Loose"
+  },
+  {
+      "teamid": "362",
+      "name": "Top Heavy",
+      "tagline": "Disproportionately heavy at the top so as to be in danger of toppling."
+  },
+  {
+      "teamid": "363",
+      "name": "Miles From Pete",
+      "tagline": "Thank you, Kevin Kline"
+  },
+  {
+      "teamid": "364",
+      "name": "Zaddy",
+      "tagline": "He has to have swag and sex appeal"
+  },
+  {
+      "teamid": "365",
+      "name": "2 Puerto Ricans",
+      "tagline": "  If you're Puerto Rican and you know it, clap your hands."
+  },
+  {
+      "teamid": "368",
+      "name": "Jane Don't",
+      "tagline": "We do\u2013if we want\u2013and if not, Jane Don't."
+  },
+  {
+      "teamid": "367",
+      "name": "Physically Bold",
+      "tagline": "Boston Uncommon"
+  },
+  {
+      "teamid": "369",
+      "name": "jordymartybrooks",
+      "tagline": "Selling Plantains"
+  },
+  {
+      "teamid": "370",
+      "name": "Gym Crush",
+      "tagline": "Is it hot in here?"
+  },
+  {
+      "teamid": "372",
+      "name": "Bougie",
+      "tagline": "We ate the cake!"
+  },
+  {
+      "teamid": "373",
+      "name": "The Yankees",
+      "tagline": "Do your job"
+  },
+  {
+      "teamid": "374",
+      "name": "The Mets",
+      "tagline": "Ya Gotta Believe!"
+  },
+  {
+      "teamid": "375",
+      "name": "Current Ex-Boyfriend",
+      "tagline": "be the champions they are"
+  },
+  {
+      "teamid": "376",
+      "name": "The Outlaw",
+      "tagline": "The romance of danger and dust"
+  },
+  {
+      "teamid": "377",
+      "name": "Captain",
+      "tagline": "rise up and hear the bells"
+  },
+  {
+      "teamid": "378",
+      "name": "STRIFE: An Improvised Theatrical Experience",
+      "tagline": "Theater=Life"
+  },
+  {
+      "teamid": "379",
+      "name": "Doing Hugs",
+      "tagline": "The message of modern love"
+  },
+  {
+      "teamid": "380",
+      "name": "The Sister Wives",
+      "tagline": "\"a cohesive, loving unit\""
+  },
+  {
+      "teamid": "381",
+      "name": "Highwater",
+      "tagline": "The maximum level"
+  },
+  {
+      "teamid": "382",
+      "name": "The Smashing Hunnies",
+      "tagline": "Simply the best"
+  },
+  {
+      "teamid": "383",
+      "name": "Fight Clurb",
+      "tagline": "Tyler Durbden"
+  },
+  {
+      "teamid": "384",
+      "name": "Party City",
+      "tagline": "Get the party started!"
+  },
+  {
+      "teamid": "385",
+      "name": "The Shrimp Store",
+      "tagline": "Heaping portions of the freshest"
+  },
+  {
+      "teamid": "386",
+      "name": "Too Damn Much",
+      "tagline": "... but I'm lovin' it!"
+  },
+  {
+      "teamid": "387",
+      "name": "Promises",
+      "tagline": "Arm in arm we laughed like kids"
+  },
+  {
+      "teamid": "388",
+      "name": "Carolyn",
+      "tagline": "bright in the nighttime like day"
+  },
+  {
+      "teamid": "389",
+      "name": "The Golden Age of Radio",
+      "tagline": "The Shadow knows!"
+  }
+  ]
