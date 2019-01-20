@@ -24,7 +24,7 @@ teams.each {|team|
 }
 
 if Rails.env.development?
-  AdminUser.create!(
+  admin_user = AdminUser.create!(
     email: 'kvinklly@gmail.com',
     password: 'password',
     password_confirmation: 'password'
@@ -38,3 +38,18 @@ if Rails.env.development?
     )
   end
 end
+
+file = File.read(File.dirname(__FILE__) + '/json_seeds/posts.json')
+posts = JSON.parse(file)
+
+posts.each {|post|
+  Post.create!(
+    cagematch_id: cagematch['id'],
+    title: post['title'],
+    text: post['text'],
+    author: post['author'].present? ? post['author'] : 'CageMatch NYC',
+    published_at: Time.at(post['date'].to_i),
+    category: post['newscat'],
+    admin_user_id: admin_user['id']
+  )
+}
