@@ -1,0 +1,839 @@
+[
+  {
+      "newsid": "1",
+      "newscat": "admin",
+      "date": "1067451192",
+      "closed": "0",
+      "title": "Welcome to the admin control panel",
+      "author": "mullaney",
+      "text": "Welcome to the admin control panel for the cage-match website. If you are here to update scores, teams and fights, you are in the right place. This is under construction so some things don't work correctly. Also, you have access to some things that only I should be changing, so please confine yourself to the following options:\r\n<ol><li>The team section should be working correctly. If you have the need to change information for a specific team, go right ahead. You might want to get teams to sumbit slogans\/taglines for their team. I plan on showing them at various places on the site.\r\n<li>The fights section is working too, so you can add fights. Notice that you can add a tagline for a specific show. You can also specify a second team if it's not the previous week's winner. Lastly, you can add a description that I may add. We can use this as a post show wrap up if you like.\r\n<li>The scores section is not working yet, so don't bother clicking on that link.\r\n<li>PLEASE DO NOT MESS WITH THE TEMPLATES SECTION. THIS IS THE HEART OF WEBSITE PROGRAMMING, SO PLEASE DON'T TOUCH IT.\r\n<\/ol>\r\n<p>Thanks for offering for your help.\r\n<p>mullaney"
+  },
+  {
+      "newsid": "2",
+      "newscat": "main",
+      "date": "1067544587",
+      "closed": "0",
+      "title": "Welcome to version 2 of cage-match.com",
+      "author": "mullaney",
+      "text": "I've been working hard over the last week or two to update this site. It was in need of an overhaul in order to better handle seasons and some of the strange nuances of this fall season. I hope you like the new look of the site and enjoy some of the new features. There is still a lot to be done, and I expect that these changes will mostly be finished in the next week or two. Please share your comments on the design, by clicking on the comments link at the bottom of the page."
+  },
+  {
+      "newsid": "3",
+      "newscat": "main",
+      "date": "1067736992",
+      "closed": "0",
+      "title": "More updates",
+      "author": "mullaney",
+      "text": "The schedule, scores and rankings section of the site are now complete. The rules section should be very simple to put up. Expect that by Monday evening. Then the records page is the last element to add before we go live."
+  },
+  {
+      "newsid": "4",
+      "newscat": "main",
+      "date": "1068075786",
+      "closed": "0",
+      "title": "The Third Annual New York City 3x3 Open Improv Tournament",
+      "author": "mullaney",
+      "text": "On Saturday, November 29th \u2013 the Saturday of Thanksgiving weekend \u2013 the top improvisors in NYC will battle it out in the third annual citywide 3-on-3 improv tournament at the UCB Theatre.\r\n\r\n<p>One night. Twenty-one teams. A top prize of $200.\r\n\r\n<p>Give thanks \u2026 for competitive improv!\r\n\r\n<p class=\"headline\">Registration<\/p>\r\n\r\n<p>The 3x3 tourney is open to any and all participants. Simply send an email to <a href=\"mailto:improv3x3@yahoo.com\">improv3x3@yahoo.com<\/a> with the following information:\r\n\r\n\r\n\r\n<ul><li>Player 1 (name, phone number, and email address)\r\n<br>Player 2 (name, phone number, and email address)\r\n<br>Player 3 (name, phone number, and email address)\r\n<li>Team name (optional)\r\n<li>Home theatre or ensemble (please specify here if you are an out of town group)<\/ul>\r\n\r\n<p><b>All registration emails must be received by 11:59 p.m. on Wednesday, November 12th.<\/b><\/p>\r\n\r\n<p>If we receive more registration emails than the number of slots allotted, we will hold a special lottery after Cagematch on Thursday, November 13th to determine which teams get to participate.\r\n\r\n<p>Participants may register with ONE TEAM ONLY, so choose your lineups carefully. Please register only if you\u2019re going to be in New York for Thanksgiving weekend.\r\n\r\n<p>There is entry fee of $15 per team due when you arrive at the theatre for your show on Saturday night.\r\n\r\n<p class=\"headline\">The Shows<\/p>\r\n\r\n<p>There will be three qualifying rounds on Saturday night at 7:30, 9, and 10:30 p.m., respectively, with the finals to be held at midnight. Each qualifying round will feature seven teams \u2013 six pre-selected groups, and one wildcard team that will be made up of audience members drawn out of a hat (or similar receptacle).\r\n\r\n<p>Each team will have seven minutes of stage time to impress our panel of judges, who will be scoring the teams on a scale of 1-5 in three areas: Technical Merit, Artistry, and Comicality. The scores are then averaged to produce the team\u2019s composite score.\r\n\r\n<p>The team with the highest composite score from each qualifying round will advance to the midnight finals, where they will each perform 15 minutes in competition for the top prize.\r\n\r\n<p>The prize break down for the finalists is:\r\n\r\n<ul><li>1st place - $200\r\n<li>2nd place - $50\r\n<li>3rd place - $20<\/ul>\r\n\r\n<p>Prize amounts are not easily divisible by three to ensure healthy competition even after the shows have finished.\r\n\r\n<p class=\"headline\">Random Notes<\/p>\r\n\r\n<ul><li>The running order for the qualifying rounds will be determined by a random drawing at the top of the show. The running order for the finals will be determined by the finalists\u2019 composite score from the qualifying rounds, with the lowest score going first and the highest going last.\r\n<li>The wildcard drawing is open to any audience member who wishes to throw their name into the hat (or similar receptacle), minus those individuals who are already scheduled to perform with a 3x3 team. Wildcard teams will be waived of the $15 entry fee.\r\n<li>As in years past, the three finalist teams from the 2002 tourney will be offered automatic invites to this year\u2019s qualifying rounds.\r\n<li>The tournament is \u201clong-form\u201d improv. You can only get one suggestion from the audience. No GAMEPROV.<\/ul>\r\n\r\n<p>Updates will follow as the registration deadline nears, but for now start emailing in your team lineups, and if you have any questions, feel free to post them here or email <a href=\"mailto:improv3x3@yahoo.com\">improv3x3@yahoo.com<\/a>.\r\n"
+  },
+  {
+      "newsid": "5",
+      "newscat": "main",
+      "date": "1068084098",
+      "closed": "0",
+      "title": "Week 9 of the Fall 2003 Season",
+      "author": "CageMatch NYC",
+      "text": "This week's fight will surely be a Cagematch to remember. Expect the place to be packed to the rafters. It features a strong veteran team in Optimist International, the same team that won 14 straight during the 2002 season. But they are up against a powerful team, hungry for their first Cagematch victory. They have had three very strong showings against such powerhouse teams as the Swarm and Mother. Will Thursday be their first victory?\r\n\r\n<p>The stakes couldn't be higher as this marks the second match for both of these teams in the Fall Season. The winner will likely secure a place in the 2004 Winter Tournament, and still may have a chance to take out the Swarm for first place in the overall season standings (based on average votes per show). The loser may well be out of the tournament. They will battle, you will decide. See you tomorrow night!"
+  },
+  {
+      "newsid": "6",
+      "newscat": "main",
+      "date": "1068236642",
+      "closed": "0",
+      "title": "Week 10 of the Fall 2003 Season",
+      "author": "CageMatch NYC",
+      "text": "This week <b>Optimist International<\/b> battles <b>Van Buren<\/b>!  A loss for either team will take them out of the regular season.  The stakes are especially high for Van Buren; a loss will probably take them out of tournament contention (unless they lose with a very high number of votes.)  It should be a very exciting match!\r\n\r\n<p>The real question is, will co-host Chris Kula show up sober?\r\n\r\n<p>Post your comments about this show!  Trash talk!  Use fake names!  Just click on the post\/read comments link below."
+  },
+  {
+      "newsid": "7",
+      "newscat": "main",
+      "date": "1068826340",
+      "closed": "0",
+      "title": "Week 11 of the Fall Season",
+      "author": "CageMatch NYC",
+      "text": "This past week <b>Van Buren<\/b> edged out OI in a hot <i>fight<\/i>!  This week Van Buren returns as the champ to <i>fight<\/i> <b>Monkeydick<\/b>.\r\n\r\n<p>\r\n\r\nIt's do or die for both teams.  A loss will take them out of the regular season rotation.  A win will fortify tournament chances.\r\n\r\n<p>\r\n\r\nCome on, join the Joyride of CageMatch!  "
+  },
+  {
+      "newsid": "8",
+      "newscat": "main",
+      "date": "1069270609",
+      "closed": "0",
+      "title": "CageMatch Hosts Spotted at Chelsea Nightclub",
+      "author": "Wanda G. Spreadworthy",
+      "text": "<img src=\"http:\/\/www.improveverywhere.com\/aaa_old_site\/cagematch\/hosts.jpg\">"
+  },
+  {
+      "newsid": "13",
+      "newscat": "main",
+      "date": "1070305928",
+      "closed": "0",
+      "title": "Week 13 of the Fall Season",
+      "author": "CageMatch NYC",
+      "text": "After a week off for Thanksgiving and the 3x3 Tournament, CageMatch is set to rock again this Thursday night!\r\n<p>\r\nTwo teams.  Both created on the same cold evening in January 2002.  Both reworked almost beyond recognition and renamed this fall.  <b>Van Buren<\/b> and <b>gigawatt<\/b>.\r\n<p>\r\nCurrent world champs Van Buren are looking to become the third team this season to make it to win #3.  Gigawatt lost it's only fall season match to Respecto by a mere 3 votes; they're ready for their second shot.\r\n<p>\r\nChris Kula is going to host the show by himself.\r\n<p>\r\nThis is not to be missed.  See you Thursday at 11 at the UCBT.\r\n<p>\r\n<p>\r\nUse the comments link below to post your comments and trash talk!"
+  },
+  {
+      "newsid": "14",
+      "newscat": "main",
+      "date": "1070653524",
+      "closed": "0",
+      "title": "Week 14 of the Fall Season",
+      "author": "CageMatch NYC",
+      "text": "Van Buren finished up a hat trick last week, so this week the Cage is ready for a double challenger round complete with the oh-so-exciting COIN TOSS!\r\n<p>\r\n<b>Respecto<\/b> and <b>Police Chief Rumble<\/b> are set to square off in a do or die match.\r\n<p>\r\nThis is not to be missed.  See you Thursday at 11 at the UCBT.\r\n<p>\r\n<p>\r\nUse the comments link below to post your comments and trash talk!"
+  },
+  {
+      "newsid": "15",
+      "newscat": "main",
+      "date": "1070921570",
+      "closed": "0",
+      "title": "Cage Match End of Season Scheduling",
+      "author": "CageMatch NYC",
+      "text": "The fall season is set to end when every team has either 3 wins or 2 losses.  The way things have worked out, there will be one team remaining at the end of the season (either PCR or Filth) without 3 wins or 2 losses and with no eligible challengers.  As such, at least one team will get a extra match.\r\n<p>\r\nFor example: This week PCR and Respecto play each other.  If Respecto wins, they now have 3 wins and PCR now has 2 losses.  Both teams will be out of the season.  Filth is left with no opponent.  Or let's say PCR beats Respecto.  They would move on to play Filth and the winner of that match would have no opponent the next week.\r\n<p>\r\nWe have decided that opponents for these extra matches will be chosen in order of votes per show rank out of the teams that are \"0-2\".  We are placing the restriction that none of the \"0-2\" teams can surpass a team that earned a win in the regular season proper in the tournament seeding.  We are also allowing for the \"0-2\" teams to pass the option to play, in which case the opportunity would go to the next highest team in votes per show.\r\n<p>\r\nAs a reminder, only 7 teams will qualify for the tournament.\r\n<p>\r\nIf any of this is confusing, feel free to ask questions using \"post comment\" below."
+  },
+  {
+      "newsid": "12",
+      "newscat": "main",
+      "date": "1069444346",
+      "closed": "0",
+      "title": "3x3 Tournament",
+      "author": "CageMatch NYC",
+      "text": "No CageMatch this week due to Thanksgiving, but the 3rd Annual 3x3 Tournament is taking place on Saturday, November 29.  For more information, including the complete schedule, follow this link:\r\n<p>\r\n<a href=\"http:\/\/www.improvresourcecenter.com\/mb\/showthread.php?t=19653\">3x3 Tourney<\/a>"
+  },
+  {
+      "newsid": "16",
+      "newscat": "main",
+      "date": "1071507469",
+      "closed": "0",
+      "title": "Week 15 of the Fall Season",
+      "author": "CageMatch NYC",
+      "text": "Quite possibly the <b>final<\/b> match of the fall season!  Another championless match pits <b>Filth<\/b> up against <b>Dillinger<\/b>. \r\n<p>\r\nThe winner secures tournament placement.  If Dillinger loses, they lose their spot in the tourney.  If Filth loses and fails to raise their votes per show average above gigawatt, they too will lose their spot in the tourney.  It's do or die!\r\n<p>\r\nBe there, Thursday at 11!"
+  },
+  {
+      "newsid": "17",
+      "newscat": "main",
+      "date": "1073404532",
+      "closed": "0",
+      "title": "CageMatch Tourney!",
+      "author": "Dick Vitale",
+      "text": "<img src=\"http:\/\/www.improveverywhere.com\/aaa_old_site\/cagematch\/bracket.jpg\" border=\"0\" alt=\"\" \/>\r\n<p>\r\nPrint out this graphic and get your office pools going!"
+  },
+  {
+      "newsid": "18",
+      "newscat": "main",
+      "date": "1076690339",
+      "closed": "0",
+      "title": "Dillenger Wins CageMatch 2004 Tournament!",
+      "author": "CageMatch NYC",
+      "text": "Dillinger defeated the Swarm by 12 votes last night to take home the CageMatch 2004 Championship!  Dillinger will represent NYC in the Super CageMatch in Chicago this Spring at the Chicago Improv Festival.\r\n<p>\r\nThe brand new season of CageMatch starts next Thursday at Midnight.  Mother vs. Swarm!  Be there!"
+  },
+  {
+      "newsid": "19",
+      "newscat": "main",
+      "date": "1077048806",
+      "closed": "0",
+      "title": "New Cage Season",
+      "author": "CageMatch NYC",
+      "text": "After Dillinger's One Shining Moment, the Cage is back for the tip-off of the new season this Thursday at MIDNIGHT. Be there to see Mother and The Swarm!\r\n<p>\r\nFull Cage Update:\r\n<p>\r\n#This season will be a full yearlong season culminating in\r\na tournament in January\/February 2005. \r\n<p>\r\n#There are no restrictions on how many matches a team can\r\nwin. (The \u201cthree wins\u201d rule, which was used to expedite\r\nthe fall season, is gone). \r\n<p>\r\n#This season the returning champion will not necessarily\r\nperform second. Every CageMatch will begin with a coin\r\ntoss to determine the running order.\r\n<p>\r\n<p>\r\nSCHEDULE\r\n2\/19 \u2013 Swarm vs. Mother<br>\r\n2\/26 \u2013 Winner vs. OI<br>\r\n3\/4 \u2013 Winner vs. Monkeydick<br>\r\n3\/11 \u2013 Winner vs. Trillion<br>\r\n3\/18 \u2013 Winner vs. Gigawatt<br>\r\n3\/25 \u2013 Winner vs. Van Buren<br>\r\n4\/1 \u2013 Winner vs. Police Chief Rumble<br>\r\n4\/8 \u2013 Winner vs. Respecto<br>\r\n4\/15 \u2013 Winner vs. Filth <br>\r\n4\/22 \u2013 Winner vs. Dillinger<br>\r\n<p>\r\n**Note: On nights when Soundtracks Live plays at the\r\ntheatre, CageMatch will begin at Midnight rather than 11\r\nPM."
+  },
+  {
+      "newsid": "20",
+      "newscat": "main",
+      "date": "1087073603",
+      "closed": "0",
+      "title": "Respecto on Fire",
+      "author": "mullaney",
+      "text": "One by one they have fallen by the wayside. The Swarm, FILTH, Dillinger, Mother, Optimist International, Shit Storm, Monkeydick, Trillion, gigawatt and most recently Van Buren. This week they take on Police Chief Rumble and try to do what only one team has ever done before, make a complete circuit and beat every other team at the theatre.\r\n\r\n<p>Can they do it? Come see this week's show to see for yourself."
+  },
+  {
+      "newsid": "21",
+      "newscat": "main",
+      "date": "1087840143",
+      "closed": "0",
+      "title": "July Wildcard Lottery",
+      "author": "CageMatch NYC",
+      "text": "There is no CageMatch on 6\/24 (check out UCBT's Sketch Weekend!) so you have two weeks to get your teams together for the July Wildcard Lottery!\r\n<p>\r\n<p>\r\n<b>How it Works<\/b>\r\n<p>\r\n<p>\r\n<b>Thursday, July 1<\/b><p>\r\nImmediately following CageMatch (Swarm vs. Respecto), we will hold registration for the July Wildcard Lottery.  Anyone can register a team.  The only teams that are not eligible are teams that are currently already on the CageMatch Roster.  Teams can have any number of members.  Members can be students, non-students, harold team members, anyone!  Teams need not be existing performance groups.  In order to register, someone from the team must be present to sign the group up.  The registration process will simply entail writing down a team name and listing all members of the team.\r\n<p>\r\n<p>\r\n<b>Thursday, July 8<\/b><p>\r\nImmediately following CageMatch (winner vs. Filth), we will hold a drawing live on stage to determine which team gets the wildcard slot.  The names of all registered teams will be placed in a hat, and one will be randomly drawn.  <b>All members of the team must be present to win.<\/b>  We will hold a roll-call for the winning team to confirm that all members are present.  If a team is not at 100%, their entry is discarded and we go back to the hat and draw again.\r\n<p>\r\n<p>\r\n<b>Thursday, July 15<\/b><p>\r\nNo CageMatch (theatre closed for private event)\r\n<p>\r\n<p>\r\n<b>Thursday, July 22<\/b><p>\r\nWinner vs. Wildcard Lottery Winner!\r\n"
+  },
+  {
+      "newsid": "22",
+      "newscat": "main",
+      "date": "1098999943",
+      "closed": "0",
+      "title": "3x3!!!",
+      "author": "CageMatch NYC",
+      "text": "Yes! It\u2019s here! The yearly Improv 3 on 3 Tournament! Anyone can play! Anyone can win! <p>\r\n <p>\r\nRegistration <p>\r\nThe 3x3 tourney is open to any and all participants. Simply send an email to Threeonthree@gmail.com with the following information: <p>\r\n\u2022 Player 1 (name, phone number, and email address) <p>\r\nPlayer 2 (name, phone number, and email address) <p>\r\nPlayer 3 (name, phone number, and email address) <p>\r\n\u2022 Team name <p>\r\n\u2022 Home theatre or ensemble (please specify here if you are an out of town group) <p>\r\n <p>\r\nAll registration emails must be received by NOON. on Friday, October 29th. <p>\r\n <p>\r\nParticipants may register with ONE TEAM ONLY, so choose your lineups carefully. If a member of your registered team cannot compete, you will not be allowed to add another member and your slot will be given away. Your team must be able to perform on any Thursday in November as well as Saturday, November 27th. <p>\r\n <p>\r\nThere is entry fee of $15 per team due when you arrive at the theatre for your qualifying slot. <p>\r\n <p>\r\nThe Shows <p>\r\n <p>\r\nThere will be three qualifying rounds November 4th, 11th, and 18th at 11pm (during the regular Cage Match slot. Each qualifying round will feature seven teams \u2013 six pre-selected groups, and one wildcard team that will be made up of audience members drawn out of a hat (or similar receptacle). Each team will have seven minutes of stage time. The audience will vote for their favorite teams, and the top three teams from each week will return on Saturday, November 27th for the Semi-finals and Finals. There will be a special 7pm qualifier on Saturday as well. <p>\r\n <p>\r\nThe Semi-finals will take place on Saturday, November 27th at 8:30pm and 10pm. Each of the 6 teams will have 10 minutes of stage time to impress our panel of judges, who will be scoring the teams on a scale of 1-5 in three areas: Technical Merit, Artistry, and Comicality. The scores are then averaged to produce the team\u2019s composite score. The two teams from each show with the highest scores will compete in the Finals. There will be no wildcard teams for these shows, but there will be a Wildcard Judge for each show. <p>\r\n <p>\r\nThe Finals will be at 11:30pm. Each of the 4 teams will be given 15 minutes, and scored the same way as the Semi-finals. <p>\r\n <p>\r\nThe prize break down for the finalists is: <p>\r\n\u2022 1st place - $175 <p>\r\n\u2022 2nd place - $100 <p>\r\n\u2022 3rd place - $85 <p>\r\n <p>\r\nPrize amounts are not easily divisible by three to ensure healthy competition even after the shows have finished. <p>\r\n\r\nRandom Notes <p>\r\n\u2022 The running order for the qualifying rounds will be determined by random drawing beforehand, with Wildcard Teams going last. The running order for the semi-finals and finals will be determined by the finalists\u2019 composite score from the qualifying rounds, with the lowest score going first and the highest going last. <p>\r\n\u2022 The wildcard drawing is open to any audience member who wishes to throw their name into the hat (or similar receptacle), minus those individuals who are already scheduled to perform with a 3x3 team. Wildcard teams will be waived of the $15 entry fee. <p>\r\n\u2022 As in years past, the three finalist teams from the 2003 tourney will be offered automatic invites to this year\u2019s qualifying rounds.\r\n\u2022 The tournament is \u201clong-form\u201d improv. You can only get one suggestion from the audience. No GAMEPROV. <p>\r\n <p>\r\nUpdates will follow, so keep checking cage-match.com as well as the Plugs forum in the IRC, but for now start emailing in your team lineups, and if you have any questions, feel free to post them here or email Threeonthree@gmail.com <p>"
+  },
+  {
+      "newsid": "23",
+      "newscat": "main",
+      "date": "1100887622",
+      "closed": "0",
+      "title": "New CageMatch Rules\u2014Lottery Fever!!!!",
+      "author": "CageMatch NYC",
+      "text": "In December, we\u2019re making some big changes to CageMatch NYC. Each week\u2019s challenger will be decided via a lottery drawing live on stage the week before. We experimented with this format in the month of July and have decided to implement it on a long-term basis.<p>\r\n<p>\r\nThe CageMatch on December 2 will be between our current champion Mother and the winner of the 4th Annual 3x3 Tournament. The winner of that show will face the winner of James Eason\u2019s Improv Honk Show (which plays this Saturday at Midnight at the theatre) in CageMatch on December 9.<p>\r\n<p>\r\nThese CageMatches will be the last two shows for the foreseeable future where the challenger is booked by us. Starting December 16, the challenger will be booked by LOTTERY! At the end of the December 9 show, we will hold a lottery drawing live on stage for the next week\u2019s challenger. This process will continue every week. The challenger for each Cage will be determined by a live drawing the week before.<p>\r\n<p>\r\nAt the top of each CageMatch (beginning December 9) teams may register to be a part of the lottery drawing.<p>\r\n<p>\r\nIn order to register, teams must bring in a sheet of paper with the following information <b>typed<\/b> (not hand written!):<p>\r\n<p>\r\n    * TEAM NAME<p>\r\n    * NAMES OF ALL TEAM MEMBERS<p>\r\n<p>\r\nIn order for a lottery team to eligible to register, <b>all team members must have completed a UCBT Level 3b class<\/b>. That is the only qualification. It doesn\u2019t matter if you just finished your first 3b class or if you\u2019re on a Harold Team, everyone who has completed 3b is eligible. If it is determined that a winning team has one or more members who do not meet this qualification, they will be disqualified and booed.<p>\r\n<p>\r\nHarold teams and other performance groups are allowed to register as a team if they choose, or team members can register with different teams. There are no restrictions on number of players per team. However, <b>you can only register with one team each week<\/b>.<p>\r\n<p>\r\nAfter CageMatch ends, we will have a live drawing onstage and pick one of the registered teams. <b>All team members must be present to win<\/b>. If we pick your team and one of your team members if not preset, we will throw your entry out and pick another team.<p>\r\n<p>\r\nPost a coment if you have questions, and start getting your teams together!"
+  },
+  {
+      "newsid": "24",
+      "newscat": "main",
+      "date": "1108149608",
+      "closed": "0",
+      "title": "Official CageMatch Lottery Rules",
+      "author": "CageMatch NYC",
+      "text": "As of December 2004, CageMatch NYC challengers are booked via a lottery system.  Before CageMatch each week there is a ballot box placed on stage.  Teams who meet the qualifications listed below are encouraged to register for the lottery. At the end of CageMatch there is a live drawing on stage.  The lottery winner will return the next week as the CageMatch challenger.  Please read the following rules carefully.  \r\n<br>\r\n<br>\r\n<b><center>CageMatch Lottery Entry Rules<\/center><\/b>\r\n<br><br>\r\n\u2022\tEntry sheet must <b>typed<\/b> on 8 \u00bd by 11 inch paper\r\n<br><br>\r\n\u2022\tEntry sheet should contain team name and full names of all team members\r\n<br><br>\r\n\u2022\tAll team members must have completed a UCB 500 level class (aka \"3b\")\r\n<br><br>\r\n\u2022\tDrawing will take place on stage at the end of CageMatch\r\n<br><br>\r\n\u2022\t<b>All members of team must be present at time of drawing to win<\/b>\r\n<br><br>\r\n\u2022\tPerformers may only enter with one team each week\r\n<br><br>\r\n\u2022\tPerformers who are playing in the current week's CageMatch may enter the lottery; however, it is considered lame and will probably be booed.\r\n<br><br>\r\n\u2022\tTeams must perform long form improv\r\n"
+  },
+  {
+      "newsid": "25",
+      "newscat": "main",
+      "date": "1112827037",
+      "closed": "0",
+      "title": "New CageMatch Booking Policy",
+      "author": "CageMatch NYC",
+      "text": "Starting in May, challengers for CageMatch NYC will be booked by the hosts (Chris Kula, Eric Scott, Charlie Todd).  Teams may submit themselves for consideration on the 15th of every month (beginning next week, Friday, April 15).  \r\n<p>\r\nRULES FOR ELIGIBILITY:<br>\r\n-All team members must have completed UCBT Level 501 (formerly known as \u201c3b\u201d)<br>\r\n<p>\r\nIn your email submission please include:<br>\r\n-Name of your team<br>\r\n-Names of all team members\r\n<p>\r\nEmail submissions to cagematchnyc at gmail dot com\r\n<p>\r\nExisting UCB house teams, outside groups, and fun conglomerates are all encouraged to submit.  We hope to book a wide variety of awesome teams.\r\n<p>\r\nAll submissions must be received by Midnight on the 15th.\r\n"
+  },
+  {
+      "newsid": "26",
+      "newscat": "main",
+      "date": "1121644215",
+      "closed": "0",
+      "title": "Cage Schedule for August",
+      "author": "CageMatch NYC",
+      "text": "8\/4 - Hammerkatz<br>\r\n8\/11 - The Documentary<br>\r\n8\/18 - The Pearl Brunswick<br>\r\n8\/25 - Ching Chong Bundy<br>\r\n<br>\r\n<a href=\"http:\/\/cage-match.com\/news.php?newsid=25\"> Cage Match Booking Policy<\/a>\r\n<br>\r\n<br>\r\nAlso, we don't know how to stop to the poker spam on our comments.  We know it's making anonymous snarky comments alot less accessible.  Sorry.\r\n\r\n"
+  },
+  {
+      "newsid": "27",
+      "newscat": "main",
+      "date": "1124314061",
+      "closed": "0",
+      "title": "Cage Schedule for September",
+      "author": "CageMatch NYC",
+      "text": "9\/1 - Dwayne's Guesthouse<br>\r\n9\/8 - No Posers<br>\r\n9\/15 - The Maneaters<br>\r\n9\/22 - No Cage<br>\r\n9\/29 - No Cage<br>\r\n<br>\r\n<a href=\"http:\/\/cage-match.com\/news.php?newsid=25\"> Cage Match Booking Policy<\/a>\r\n<br>"
+  },
+  {
+      "newsid": "28",
+      "newscat": "main",
+      "date": "1126887210",
+      "closed": "0",
+      "title": "Cage Schedule for October",
+      "author": "CageMatch NYC",
+      "text": "10\/6 - Best Boy<br>\r\n10\/13 - Mailer Daemon<br>\r\n10\/20 - 2 Faces of Eve<br>\r\n10\/27 - Havana Clambake<br>\r\n<br>\r\n<a href=\"http:\/\/cage-match.com\/news.php?newsid=25\"> Cage Match Booking Policy<\/a>\r\n<br>\r\n"
+  },
+  {
+      "newsid": "29",
+      "newscat": "main",
+      "date": "1129095145",
+      "closed": "0",
+      "title": "3x3 Tourney in November",
+      "author": "CageMatch NYC",
+      "text": "We will not be taking submissions for the month of November as the Annual 3x3 Improv Tournament will be taking place all month.  More info to come on that."
+  },
+  {
+      "newsid": "30",
+      "newscat": "main",
+      "date": "1130120805",
+      "closed": "0",
+      "title": "Charles Todd Sings Sammy Hagar",
+      "author": "ctodd",
+      "text": "My new one man show is THIS MONDAY (10\/31 at 1 AM (technically Tuesday morning) at Don't Tell Mama.  Please come out and support.  $17.50 plus service charges.  You will not be dissapointed.\r\n<br><p>\r\n<img src=\"http:\/\/www.improveverywhere.com\/charlie\/hagar\/flyer.jpg\">"
+  },
+  {
+      "newsid": "31",
+      "newscat": "main",
+      "date": "1131222360",
+      "closed": "0",
+      "title": "2005 CageMatch Tournament",
+      "author": "CageMatch NYC",
+      "text": "<img src=\"http:\/\/www.improveverywhere.com\/aaa_old_site\/cagematch\/bracket05.jpg\">\r\n<p>\r\n12\/1 No Posers (2) vs. Hanging out with Pat Baer (7)<br>\r\n12\/8 America! (1) vs. Mother (8)<br>\r\n12\/15 [No CageMatch]<br>\r\n12\/22 [Special \"Jews vs. Xians CageMatch]<br>\r\n12\/29 Krompf (4) vs. Death by Roo Roo (5)<br>\r\n1\/5  Omlette Vision (3) vs. I Eat Pandas and Friends (6)<br>\r\n1\/12 Semifinals<br>\r\n1\/19 Semifinals<br>\r\n1\/26 Finals<br>"
+  },
+  {
+      "newsid": "32",
+      "newscat": "main",
+      "date": "1137478861",
+      "closed": "0",
+      "title": "Cage Schedule for Feb",
+      "author": "Chuck McMahon",
+      "text": "2\/2 - Nice Squad vs. Shit Storm (NOTE: Cage Tourney Champ does not return) <br>\r\n2\/9 - Winner vs. Killebrew <br>\r\n2\/16 - Winner vs. Matt & Gavin <br>\r\n2\/23 - Winner vs. Dwayne's Guesthouse <br>"
+  },
+  {
+      "newsid": "33",
+      "newscat": "main",
+      "date": "1138350315",
+      "closed": "0",
+      "title": "Congratulations to I Eat Pandas + Friends",
+      "author": "CageMatch NYC",
+      "text": "I Eat Pandas + Friends took home the $1M prize tonight as they cut down the net in One Shining Moment.  Defeating the always hilarious Death by Roo Roo with their musical charm, the Pandas now are eligible to compete in the Super CageMatch in Chicago.  Congrats, Pandas + Friends!"
+  },
+  {
+      "newsid": "34",
+      "newscat": "main",
+      "date": "1140076619",
+      "closed": "0",
+      "title": "Cage Schedule for March",
+      "author": "Chuck McMahon",
+      "text": "CAGE IN MARCH<br>\r\n<br>\r\n3\/2 - W.W. Hammerkatz<br>\r\n3\/9 - Beatrice<br>\r\n3\/16 - Police Chief Rumble<br>\r\n3\/23 - The Office<br>\r\n3\/30 - Homeroom<br>\r\n"
+  },
+  {
+      "newsid": "35",
+      "newscat": "main",
+      "date": "1142553338",
+      "closed": "0",
+      "title": "Cage Schedule for April",
+      "author": "CageMatch NYC",
+      "text": "CAGE IN APRIL<br>\r\n<br>\r\n4\/6  -  KID DERVIN<br>\r\n4\/13 - ROUGE ELEPHANT<br>\r\n4\/20 - MINI-WINNIE<br>\r\n4\/27 - LIBERTY INN<br>"
+  },
+  {
+      "newsid": "36",
+      "newscat": "main",
+      "date": "1142553653",
+      "closed": "0",
+      "title": "WrestleSlamMania",
+      "author": "Chuck McMahon",
+      "text": "<img src=\"http:\/\/static.flickr.com\/46\/112595142_53b81e74b4_o.jpg\">"
+  },
+  {
+      "newsid": "37",
+      "newscat": "main",
+      "date": "1145378012",
+      "closed": "0",
+      "title": "Cage Schedule for May",
+      "author": "CageMatch NYC",
+      "text": "5\/4 - Pegasus PussyFart<br>\r\n5\/11 - Big Tobacco<br>\r\n5\/18 - Ugly Stick<br>\r\n5\/25 - Chantico Warfare<br>"
+  },
+  {
+      "newsid": "38",
+      "newscat": "main",
+      "date": "1147471177",
+      "closed": "0",
+      "title": "Cage Schedule for June",
+      "author": "CageMatch NYC",
+      "text": "June 1 - Hot Sauce<br>\r\nJune 8 - Tantrum<br>\r\nJune 15 - 1985<br>\r\nJune 22 - Creek Weasel<br>\r\nJune 29 - Death by Roo Roo <br>\r\n\r\n"
+  },
+  {
+      "newsid": "39",
+      "newscat": "main",
+      "date": "1147894113",
+      "closed": "0",
+      "title": "UCBW Pay-Per-View: ReVengance",
+      "author": "Chuck McMahon",
+      "text": "<img src=\"http:\/\/static.flickr.com\/55\/143627318_23ff121ac4_o.jpg\">"
+  },
+  {
+      "newsid": "40",
+      "newscat": "main",
+      "date": "1149120082",
+      "closed": "0",
+      "title": "ReVengance is Coming",
+      "author": "Chuck McMahon",
+      "text": "<img src=\"http:\/\/static.flickr.com\/48\/157497681_d3049c7990_o.jpg\">"
+  },
+  {
+      "newsid": "41",
+      "newscat": "main",
+      "date": "1150742779",
+      "closed": "0",
+      "title": "Cage Schedule for July",
+      "author": "CageMatch NYC",
+      "text": "7\/6 - C, C, + C Improv Factory<br>\r\n7\/13 - Piggy Bank<br>\r\n7\/20 - The Stepfathers<br>\r\n7\/27 - NO CAGE - DCM WEEK<br>"
+  },
+  {
+      "newsid": "42",
+      "newscat": "main",
+      "date": "1153525005",
+      "closed": "0",
+      "title": "Cage Schedule for August",
+      "author": "CageMatch NYC",
+      "text": "8\/3 - Project Improviser<br>\r\n8\/10 - Mailer Daemon<br>\r\n8\/17 - Death League Tea Party<br>\r\n8\/24 - Derrick<br>\r\n8\/31 - Big Tobacco<br>"
+  },
+  {
+      "newsid": "43",
+      "newscat": "main",
+      "date": "1155750461",
+      "closed": "0",
+      "title": "Cage Schedule for September",
+      "author": "CageMatch NYC",
+      "text": "9\/7 - Bicker<br>\r\n9\/21 - Axel Rex<br>"
+  },
+  {
+      "newsid": "44",
+      "newscat": "main",
+      "date": "1158447666",
+      "closed": "0",
+      "title": "Cage Schedule for October",
+      "author": "CageMatch NYC",
+      "text": "10\/5 Pearl Brunswick<br>\r\n10\/12 Bombardo<br>\r\n10\/19 Reuben Williams (booked in Sept and bumped)<br>\r\n10\/27 Best Boy"
+  },
+  {
+      "newsid": "45",
+      "newscat": "main",
+      "date": "1160938925",
+      "closed": "0",
+      "title": "3x3 Tourney in Nov",
+      "author": "CageMatch NYC",
+      "text": "You know you\u2019ve been waiting for it! The 6th Annual Improv 3 on 3 Tournament! Anyone can play! Anyone can win!<p>\r\n<p>\r\nRegistration<p>\r\nThe 3x3 tourney is open to any and all participants. Simply send an email to Threeonthree@gmail.com with the following information:<p>\r\n\u2022 Player 1 (name, phone number, and email address)<p>\r\nPlayer 2 (name, phone number, and email address)<p>\r\nPlayer 3 (name, phone number, and email address)<p>\r\n\u2022 Team name<p>\r\n\u2022 Home theatre or ensemble<p>\r\n<p>\r\nAll registration emails must be received by 1pm on Friday, October 27th.<p>\r\n<p>\r\n21 teams will perform (along with 3 wildcard teams).<p>\r\n<p>\r\nOn Friday evening, you'll be emailed what slot you're team will perform in. Participants may register with ONE TEAM ONLY, so choose your lineups carefully. Your team must be able to perform on either Thursday, November 2nd, 9th, or 16th as well as Saturday, November 25th.<p>\r\n<p>\r\nThere is entry fee of $15 per team due when you arrive at the theatre for your qualifying slot.<p>\r\n<p>\r\nThe Shows\r\n<p>\r\nThere will be three qualifying rounds November 2nd, 9th, and 16th at 11pm (during the regular Cage Match slot). Each qualifying round will feature eight teams \u2013 seven pre-selected groups, and one wildcard team that will be made up of audience members drawn out of a hat (or similar receptacle) that night. Each team will have seven minutes of stage time. The audience will vote for their favorite teams, and the top four teams from each week will return on Saturday, November 25th for the Semi-finals and Finals.<p>\r\n<p>\r\nThe Semi-finals will take place on Saturday, November 25th at 8pm and 9:30pm. Each of the 6 teams will have 10 minutes of stage time to impress our panel of judges, who will be scoring the teams on a scale of 1-5 in three areas: Technical Merit, Artistry, and Comicality. The scores are then averaged to produce the team\u2019s composite score. The two teams from each show with the highest scores will compete in the Finals. There will be no wildcard teams for these shows, but there will be a Wildcard Judge for each show.<p>\r\n<p>\r\nThe Finals will be at 11pm. Each of the 4 teams will be given 15 minutes, and scored the same way as the Semi-finals.<p>\r\n<p>\r\nThe prize break down for the finalists is:<p>\r\n\u2022 1st place - $160<p>\r\n\u2022 2nd place - $100<p>\r\n\u2022 3rd place - $55<p>\r\n<p>\r\nPrize amounts are not easily divisible by three to ensure healthy competition even after the shows have finished.<p>\r\n<p>\r\nRandom Notes<p>\r\n- If more than 21 teams register before 1pm on October 27th, a drawing will take place. This is will be done as fairly as humanly possible.<p>\r\n- The running order for the qualifying rounds will be determined by random drawing beforehand, with Wildcard Teams going last.<p>\r\n- The wildcard drawing is open to any audience member who wishes to throw their name into the hat (or similar receptacle), minus those individuals who are already scheduled to perform with a 3x3 team. Wildcard teams will be waived of the $15 entry fee.<p>\r\n- As in years past, the three finalist teams from the 2005 tourney will be offered automatic invites to this year\u2019s qualifying rounds.<p>\r\n- If you email threeonthree@gmail.com before 8pm the night of your slot and say the team can't make it, we will contact another team and fill your spot. If at time of show you are not present, we will add another wildcard team.<p>\r\n<p>\r\n- The tournament is \u201clong-form\u201d improv. You can only get one suggestion from the audience. No GAMEPROV.<p>\r\n<p>\r\n<p>\r\nUpdates will follow, so keep checking cage-match.com as well as the Plugs forum in the IRC, but for now start emailing in your team lineups, and if you have any questions, feel free to post them here or email Threeonthree@gmail.com"
+  },
+  {
+      "newsid": "46",
+      "newscat": "main",
+      "date": "1162242330",
+      "closed": "0",
+      "title": "2006 CageMatch Tournament",
+      "author": "CageMatch NYC",
+      "text": "<img src=\"http:\/\/farm1.static.flickr.com\/155\/337492506_e038c63ab3_o.jpg\">\r\n<p><br>\r\n11\/30 - Mailer Daemon (2) vs. Project Improviser (7)<br>\r\n12\/7 - Rogue Elephant (3) vs. Reuben Williams (6)<br>\r\n12\/14 - Shit Storm (4) vs. The Office (5)<br>\r\n12\/21 - NON-TOURNEY - Jews vs. Christians<br>\r\n12\/28 - Hot Sauce (1) vs. Hammerkatz (8)<br>\r\n1\/4 - Semi-Final<br>\r\n1\/11 - Semi-Final<br>\r\n1\/18 - Finals<br>"
+  },
+  {
+      "newsid": "47",
+      "newscat": "main",
+      "date": "1169497583",
+      "closed": "0",
+      "title": "2006 Tournament Champions: Hot Sauce",
+      "author": "CageMatch NYC",
+      "text": "Congratulations to Hot Sauce for winning the 2006 tournament!  "
+  },
+  {
+      "newsid": "48",
+      "newscat": "main",
+      "date": "1170040926",
+      "closed": "0",
+      "title": "New Cage Schedule",
+      "author": "cage",
+      "text": "For the start of the 2007 season we are going to book all 12 UCB house teams consecutively.  Once the rotation is through, we'll resume our usual booking practices.  This month's schedule:<p>\r\n<p>\r\nJanuary 25 - T.R.U.C.K.S.<p>\r\nFebruary 1 - fwand<p>\r\nFebruary 8 - Mother<p>\r\nFebruary 15 - Creep<p>\r\nFebruary 22 - Beverly Hills<p>\r\n"
+  },
+  {
+      "newsid": "49",
+      "newscat": "main",
+      "date": "1172648263",
+      "closed": "0",
+      "title": "March & April",
+      "author": "CageMatch NYC",
+      "text": "3\/1 - Bastian<br>\r\n3\/8 - Tantrum<br>\r\n3\/15 - Stepfathers<br>\r\n3\/22 - Kill Your Darlings<br>\r\n3\/29 - Death By Roo Roo<br>\r\n4\/5 - 1985<br>"
+  },
+  {
+      "newsid": "50",
+      "newscat": "main",
+      "date": "1174079012",
+      "closed": "0",
+      "title": "Cage Schedule for April",
+      "author": "CageMatch NYC",
+      "text": "4\/5 - 1985<br>\r\n4\/12 - Bombardo<br>\r\n4\/19 - Machine Wash Tuxedo<br>\r\n4\/26 - Derrick <br>"
+  },
+  {
+      "newsid": "51",
+      "newscat": "main",
+      "date": "1175894242",
+      "closed": "0",
+      "title": "Reuben Williams Completes House Team Sweep",
+      "author": "CageMatch NYC",
+      "text": "Last night Reuben Williams became the 3rd team in the history of CageMatch to sweep every UCB house team.\r\n<p>\r\nIn 2002, Optimist International won 14 shows in a row, beating indie-team Littleman first and then beating every house team once and My Kickass Van and The Syndicate twice.  Their run ended with a loss to indie-team The Office.\r\n<p>\r\nIn 2004, Respecto won 12 shows in a row starting with The Swarm and beating every house team exactly once and The Swarm twice. They also beat Shit-Storm midway through the run (the infamous \"same time\" CageMatch.) Filth beat them to end the run.\r\n<p>\r\nReuben has now won 11 shows in a row this season, needing 3 more victories to tie Optimist's record for consecutive Cage wins.  Reuben actually has 14 consecutive regular season wins right now, as they won the last three matches of the 2006 season.  This stat is somewhat marred by their loss to Hot Sauce in the 2006 tournament.\r\n"
+  },
+  {
+      "newsid": "52",
+      "newscat": "main",
+      "date": "1176839744",
+      "closed": "0",
+      "title": "April & May",
+      "author": "CageMatch NYC",
+      "text": "4\/26 The Jawnee Conroy Allstarz<br>\r\n5\/3 Sherpa<br>\r\n5\/10 Nights of our Lives <br>\r\n5\/17 Derrick<br>\r\n5\/24 The Law Firm of Rodgers, Pally, Speiller, and Lang<br>\r\n5\/31 Blackout<br>\r\n"
+  },
+  {
+      "newsid": "53",
+      "newscat": "main",
+      "date": "1179501330",
+      "closed": "0",
+      "title": "June Schedule",
+      "author": "CageMatch NYC",
+      "text": "June 7 - Jakijesu (Jackie Clarke, Jess Allen and Sue Galloway)<br>\r\nJune 14 - Omlette Vision<br>\r\nJune 21 - Fiefdom<br>\r\nJune 28 - Working Girls<br>\r\n<p>\r\n<em>and don't miss <b>UCBW's ReVengeance Pay-Per-View<b> on June 16!<\/em>"
+  },
+  {
+      "newsid": "54",
+      "newscat": "main",
+      "date": "1182197792",
+      "closed": "0",
+      "title": "July Schedule",
+      "author": "CageMatch NYC",
+      "text": "July 5 - C, C + C Improv Factory<br>\r\nJuly 12 - 4TRACK<br>\r\n<p>\r\n<i>July 19 - UCBT at SummerStage<br>\r\nJuly 26 - DCM WEEK"
+  },
+  {
+      "newsid": "55",
+      "newscat": "main",
+      "date": "1184601334",
+      "closed": "0",
+      "title": "August Schedule",
+      "author": "CageMatch NYC",
+      "text": "August 2 - Slideburgers<br>\r\nAugust 9 - Death League Tea Party<br>\r\nAugust 16 - The Brothers Hines<br>\r\nAugust 23 - Happy Kid<br>\r\nAugust 30 - Chubby Chase<br>"
+  },
+  {
+      "newsid": "56",
+      "newscat": "main",
+      "date": "1187387691",
+      "closed": "0",
+      "title": "Sept and Oct Schedule",
+      "author": "CageMatch NYC",
+      "text": "9\/6 - Derrick <br>\r\n9\/13 - Krompf<br>\r\n9\/20 - Hotsauce<br>\r\n9\/27 - Twelve Thousand Dollars<br>\r\n10\/4 - DeCoster<br>\r\n10\/11 - Loretta<br>\r\n10\/18 - Raynard<br>"
+  },
+  {
+      "newsid": "57",
+      "newscat": "main",
+      "date": "1192769449",
+      "closed": "0",
+      "title": "Cage End Of Year Schedule",
+      "author": "CageMatch NYC",
+      "text": "10\/25 - Special show for Offensive Fest: Retards vs. Stereotypes<br>\r\n<br>\r\nThursday, November 1, 8, and 15: 3x3 Qualifying Rounds<br>\r\n<br>\r\nNovember 29: End of Year Tournament Begins"
+  },
+  {
+      "newsid": "58",
+      "newscat": "main",
+      "date": "1193688436",
+      "closed": "0",
+      "title": "2007 CageMatch Tournament",
+      "author": "CageMatch NYC",
+      "text": "The 2007 Tournament Schedule is:<br>\r\n<br>\r\nNovember 29: C,C,+C Improv Factory (3) vs. Working Girls (6)<br>\r\nDecember 6: Reuben Williams (1) vs. Jawnee Conroy Allstarz (8)<br>\r\nDecember 13: Omlette Vision (4) vs. The Brothers Hines (5)<br>\r\nDecember 20: Derrick (2) vs. Sherpa (7)<br>\r\n<br>\r\nDecember 27: Special Match - Jews vs. Christians (Hosted by Osama Bin Laden)<br>\r\n<br>\r\nJanuary 3: Semifinals (Winner of 1\/8 vs. 4\/5)<br>\r\nJanuary 10: Semifinals (Winner of 2\/7 vs. 3\/6)<br>\r\nJanuary 17: Finals<br>\r\n<br>\r\nJanuary 24: 2008 Season Begins - Current champ Derrick takes on new challenger<br>\r\n<br>\r\n<br>\r\n<img src=\"http:\/\/farm3.static.flickr.com\/2099\/1799750113_b744fc723e_o.jpg\">"
+  },
+  {
+      "newsid": "59",
+      "newscat": "main",
+      "date": "1199229077",
+      "closed": "0",
+      "title": "Cage in January + 2008 booking",
+      "author": "CageMatch NYC",
+      "text": "1\/3 - Reuben Williams vs. The Brothers Hines (semifinals)<br>\r\n1\/10 - Derrick vs. C, C, + C Improv Factory (seminfinals)<br>\r\n1\/17 - CAGEMATCH TOURNAMENT FINALS<br>\r\n<br>\r\n1\/24 - Derrick vs. Tantrum <br>\r\n1\/31 - Winner vs. T.R.U.C.K.S.<br>\r\n<br>\r\nFrom February to May we will be booking one practice group the first Thursday of every month and UCB house teams for the rest of the month.  After we cycle through all of the house teams we will resume open booking.  All team members must have completed UCB 401.  To apply please send an email to cagematchnyc at gmail _dot_ com.  List your team name and every member on the team.  You will not be allowed to add members once the show is booked.  You will not be penalized if someone on your team misses the show.  You should list any Thursdays that do not work for you in the email as well, as you will not be able to switch dates once your show is booked.  \r\n<br>\r\nSome notes for practice groups applying: we remain primarily interested in booking real teams that currently do shows.  Preference often goes to teams with members that regularly attend CageMatch.  Until the house team cycle is complete (in May) we will not be booking practice groups with UCB house team members. "
+  },
+  {
+      "newsid": "60",
+      "newscat": "main",
+      "date": "1200522875",
+      "closed": "0",
+      "title": "Cage Through May",
+      "author": "CageMatch NYC",
+      "text": "1\/24 - Tantrum vs. Fat Penguin <br>\r\n1\/31 - T.R.U.C.K.S.<br>\r\n2\/7 - Derrick<br>\r\n2\/14 - (NO SHOW)<br>\r\n2\/21 - Broad Shoulders <br>\r\n2\/28 - Stepfathers<br>"
+  },
+  {
+      "newsid": "61",
+      "newscat": "main",
+      "date": "1206390230",
+      "closed": "0",
+      "title": "Cage Schedule",
+      "author": "CageMatch NYC",
+      "text": "The CageMatch schedule can be see on the UCB Theatre site.\r\n<p>\r\n<a href=\\\"http:\/\/newyork.ucbtheatre.com\/shows\/25\\\">CageMatch Upcoming Schedule<\/a>"
+  },
+  {
+      "newsid": "62",
+      "newscat": "main",
+      "date": "1218517453",
+      "closed": "0",
+      "title": "Congrats to C, C, + C Improv Factory",
+      "author": "CageMatch NYC",
+      "text": "C, C, + C Improv Factory from NYC defeated Convoy from LA to win the SuperCageMatch Championship this past weekend.  Both teams fought hard, but CCC won in the end 67 to 56.  Congrats guys!"
+  },
+  {
+      "newsid": "63",
+      "newscat": "main",
+      "date": "1219379709",
+      "closed": "0",
+      "title": "Death By Roo Roo Ties All-Time Record",
+      "author": "CageMatch NYC",
+      "text": "Death By Roo Roo won their 14th consecutive CageMatch last night, tying the all-time winning streak record set by Optimist International in 2002.  Congrats Roo Roo!"
+  },
+  {
+      "newsid": "64",
+      "newscat": "main",
+      "date": "1219985240",
+      "closed": "0",
+      "title": "Death By Roo Roo Breaks Record",
+      "author": "CageMatch NYC",
+      "text": "On Thursday, August 28 Death By Roo Roo broke the all-time CageMatch record for consecutive wins.  This season they are 15-0.  Congrats Roo Roo!!!"
+  },
+  {
+      "newsid": "65",
+      "newscat": "main",
+      "date": "1225122328",
+      "closed": "0",
+      "title": "2008 CageMatch Tournament",
+      "author": "CageMatch NYC",
+      "text": "12\/4 Roo Roo (1) vs CCC (8)<br>\r\n12\/11 Stepfathers (2) vs Fat Penguin (7)<br>\r\n12\/18 Bastian (3) vs Ben Rodgers (6)<br>\r\n1\/8 Derrick (4) vs Hot Sauce (5)<br>\r\n1\/15 1\/8 vs 4\/5<br>\r\n1\/22 2\/7 vs 3\/6<br>\r\n1\/29 Finals<br>"
+  },
+  {
+      "newsid": "66",
+      "newscat": "main",
+      "date": "1233303862",
+      "closed": "0",
+      "title": "2008 Champions: Deat by Roo Roo",
+      "author": "",
+      "text": "Congratulations to Death by Roo Roo for winning the 2008 tournament!  "
+  },
+  {
+      "newsid": "67",
+      "newscat": "main",
+      "date": "1240698564",
+      "closed": "0",
+      "title": "How to Apply for Cage",
+      "author": "CageMatch NYC",
+      "text": "To apply for CageMatch, send an email to cagematchnyc at gmai1 dot {com} with the name of your team and the names of all of your team members.  All members must have completed UCB 401.  We prefer to book teams that are active and currently doing shows and practicing, so mention a little about your team\\'s activity if you can.  We usually start the season by booking all of the UCB House Teams with a few outside groups mixed in, and then have more room for outside groups and UCB House Team member side projects later in the summer and fall.  You only need to email once per year to be considered.  We pick the lineup each month from the full pool of submissions.  We get tons of submissions, so understand we won\\'t have room for everyone and it may take several months to get booked.  "
+  },
+  {
+      "newsid": "68",
+      "newscat": "main",
+      "date": "1250578253",
+      "closed": "0",
+      "title": "Congrats to Death by Roo Roo",
+      "author": "CageMatch NYC",
+      "text": "Death by Roo Roo from NYC defeated Kaploosh from LA to win the SuperCageMatch Championship this past weekend.  Both teams fought hard, but Roo Roo won in the end 57 to 83.  Congrats guys!"
+  },
+  {
+      "newsid": "69",
+      "newscat": "main",
+      "date": "1257571223",
+      "closed": "0",
+      "title": "2009 CageMatch Tournament",
+      "author": "CageMatch NYC",
+      "text": "12\/3 Roo Roo (1) vs Rogue Elephant (8)<br>\r\n12\/10 Classic Masculinity (4) vs Bangs (5)<br>\r\n12\/17 Stepfathers (2) vs Hot Sauce (7)<br>\r\n1\/7 The Brothers Hines (3) vs The Scam (6)<br>\r\n1\/14 1\/8 vs 4\/5<br>\r\n1\/21 2\/7 vs 3\/6<br>\r\n1\/28 Finals<br>"
+  },
+  {
+      "newsid": "70",
+      "newscat": "main",
+      "date": "1264979317",
+      "closed": "0",
+      "title": "Congrats to Death by Roo Roo",
+      "author": "Cagematch NYC",
+      "text": "Congratulations to Death by Roo Roo for winning the 2009 tournament! "
+  },
+  {
+      "newsid": "71",
+      "newscat": "main",
+      "date": "1266881841",
+      "closed": "0",
+      "title": "How to Apply for Cage",
+      "author": "Cagematch NYC",
+      "text": "Like last year the season will include all of the UCB house teams competing with indie teams being mixed in as well. To apply for one of these slots send an email to cagematchnyc  at gmail _dot_ com. List your team name and every member on the team. All team members must have completed UCB 401. We prefer to book teams that are currently practicing and doing shows and that are not \\\"side projects\\\" for most of the performers involved.<br>\r\n<br>\r\nSome tips:<br>\r\n<br>\r\n**Link to your group\\'s Improvteams.com profile if you have one<br>\r\n<br>\r\n**Submit just your main team rather than every team you are on<br>\r\n<br>\r\n**Teams with smaller casts are less likely to get booked. Two reasons for this-- 1) we\\'d rather give the opporunity to more people 2) small casts tend to have schedule issues because it\\'s more important for each member to be available.<br>\r\n<br>\r\n**You only need to email once per year to be considered. We pick the lineup each month from the full pool of submissions. We get tons of submissions, so understand we won\\'t have room for everyone and it may take several months to get booked.<br>"
+  },
+  {
+      "newsid": "72",
+      "newscat": "main",
+      "date": "1286824548",
+      "closed": "0",
+      "title": "CageMatch Reservation Policy",
+      "author": "CageMatch NYC",
+      "text": "To try to combat a recent trend of teams making an excessive number of reservations for their own show, UCB is implementing a new policy for CageMatch reservations:\r\n<p>\r\n\\\"Competing CageMatch teams cannot make reservations for their own show.  They are competing.  Their fans need to make their own reservations.  Additionally, all reservations must arrive together.  So if a team makes a reservation under a fake name for 10 people and one person shows up to claim a ticket from that reservation, even if they don\\'t buy all 10 tickets, that reservation will be dead.  So anyone else who shows up trying to claim the same reservation will have to go to the stand-by line.  If 10 people do show up together, then that\\'s just fine with us.\\\""
+  },
+  {
+      "newsid": "73",
+      "newscat": "main",
+      "date": "1288563555",
+      "closed": "0",
+      "title": "2010 Tournament Schedule",
+      "author": "CageMatch NYC",
+      "text": "12\/2 Doppelganger (2) vs Outlook (7)<br>\r\n12\/9 Reuben (1) vs Badman (8)<br>\r\n12\/16 The Brothers Hines (3) vs Dog Court (6)<br>\r\n12\/30  Rogue (4) vs Roo Roo (5)<br>\r\n1\/6 1\/8 vs 4\/5<br>\r\n1\/13 2\/7 vs 3\/6<br>\r\n1\/20 Finals<br>"
+  },
+  {
+      "newsid": "74",
+      "newscat": "main",
+      "date": "1293829734",
+      "closed": "0",
+      "title": "How to Apply for Cage",
+      "author": "CageMatch NYC",
+      "text": "Like last year the season will include all of the UCB house teams competing with indie teams being mixed in as well. To apply for one of these slots send an email to cagematchnyc  at gmail _dot_ com. List your team name and every member on the team. All team members must have completed UCB 401. We prefer to book teams that are currently practicing and doing shows and that are not \\\"side projects\\\" for most of the performers involved.<br>\r\n<br>\r\nSome tips:<br>\r\n<br>\r\n**Link to your group\\'s Improvteams.com profile if you have one<br>\r\n<br>\r\n**Submit just your main team rather than every team you are on<br>\r\n<br>\r\n**Teams with smaller casts are less likely to get booked. Two reasons for this-- 1) we\\'d rather give the opporunity to more people 2) small casts tend to have schedule issues because it\\'s more important for each member to be available.<br>\r\n<br>\r\n**You only need to email once per year to be considered. We pick the lineup each month from the full pool of submissions. We get tons of submissions, so understand we won\\'t have room for everyone and it may take several months to get booked.<br>"
+  },
+  {
+      "newsid": "75",
+      "newscat": "main",
+      "date": "1295597219",
+      "closed": "0",
+      "title": "Congrats to Death by Roo Roo",
+      "author": "CageMatch NYC",
+      "text": "Congratulations to Death by Roo Roo for winning the 2010 tournament!  Three years in a row! "
+  },
+  {
+      "newsid": "76",
+      "newscat": "main",
+      "date": "1319926663",
+      "closed": "0",
+      "title": "2011 Tournament Schedule",
+      "author": "CageMatch NYC",
+      "text": "12\/1 Rogue Elephant (1) vs Doppelg\u00e4nger (8)<br>\r\n12\/8 The Law Firm (2) vs The Curfew (7)<br>\r\n12\/15 Outlook of the Poet (3) vs The Stepfathers (6)<br>\r\n12\/22 Jews vs Christians<br>\r\n12\/29 Diamond Lion (4) vs Boy Butter (5)<br>\r\n1\/5 1\/8 vs 4\/5<br>\r\n1\/12 2\/7 vs 3\/6<br>\r\n1\/19 Finals<br>"
+  },
+  {
+      "newsid": "77",
+      "newscat": "main",
+      "date": "1325263956",
+      "closed": "0",
+      "title": "How to Apply for CageMatch",
+      "author": "CageMatch NYC",
+      "text": "The CageMatch season will include one slot for every UCB house team.  Throughout the year, we also make room for slots for indie teams.<br>\r\n<br>\r\nTo apply for one of these slots send an email to cagematchnyc  at gmail _dot_ com. List your team name and every member on the team. All team members must have completed UCB 401. We prefer to book teams that are currently practicing and doing shows and that are not \\\"side projects\\\" for most of the performers involved.<br>\r\n<br>\r\nSome tips:<br>\r\n<br>\r\n**Link to your group\\'s Improvteams.com profile<br>\r\n<br>\r\n**Submit just your main team rather than every team you are on<br>\r\n<br>\r\n**Teams with smaller casts are less likely to get booked. Two reasons for this-- 1) we\\'d rather give the opportunity to more people 2) small casts tend to have schedule issues because it\\'s more important for each member to be available.<br>\r\n<br>\r\n**You only need to email once per year to be considered. We pick the lineup each month from the full pool of submissions. We get tons of submissions, so understand we won\\'t have room for everyone and it may take several months to get booked.<br>\r\n<br>\r\n**Another route into CageMatch for an indie team is to compete in Indie CageMatch at UCB East.  If an indie team wins 3 consecutive shows there, they will be booked at CageMatch.<br>"
+  },
+  {
+      "newsid": "78",
+      "newscat": "main",
+      "date": "1327049055",
+      "closed": "0",
+      "title": "Congrats to Outlook of the Poet",
+      "author": "CageMatch NYC",
+      "text": "Outlook of the Poet has won the 2011 Tournament of Champions.  A 2-man team of Ben Rodgers and Gavin Speiller defeated Diamond Lion in the finals.  Congrats to all tournament teams!"
+  },
+  {
+      "newsid": "79",
+      "newscat": "main",
+      "date": "1350582932",
+      "closed": "0",
+      "title": "How CageMatch is Booked",
+      "author": "CageMatch NYC",
+      "text": "In each CageMatch season, the following teams are automatically booked:<br>\r\n<br>\r\n- UCB House Teams (Harold teams, Lloyd teams, Weekend teams, improv teams with weekly shows at the Beast.)<br>\r\n<br>\r\n- Teams that win Indie CageMatch 3 weeks in a row.<br>\r\n<br>\r\nThis leaves VERY few slots for any other teams.  In 2012, only FIVE teams were booked that did not meet the criteria above.<br>  \r\n<br>\r\nTo apply for one of these slots send an email to cagematchnyc  at gmail _dot_ com. List your team name and every member on the team. All team members must have completed UCB 401.<br>\r\n<br>\r\nYou only need to email once per year to be considered. Understand that there are only a few slots and many teams.  I tend to give priority to teams that have won a CageMatch in the past or teams that have never had a CageMatch but are very dedicated and active in the indie scene, but ineligible for Indie CageMatch.<br>\r\n<br>\r\n- Charlie \\\"Chuck McMahon\\\" Todd"
+  },
+  {
+      "newsid": "80",
+      "newscat": "main",
+      "date": "1351292075",
+      "closed": "0",
+      "title": "2012 Tournament Schedule",
+      "author": "CageMatch NYC",
+      "text": "11\/29 - Airwolf (1) vs. Graceland (8)<br>\r\n12\/6 - North Coast (4) vs. Fuck that Shit (5)<br>\r\n12\/13 - Grandma\\'s Ashes (3) vs. What I did for Love (6)<br>\r\n12\/20 - No Show \/ Theatre Closed<br> \r\n12\/27- Jews vs. Christians<br>\r\n1\/3 - Good Dad (2) vs. Doppelganger (7)<br>\r\n1\/10 - Semifinal: 1\/8 vs 4\/5<br>\r\n1\/17 - Semifinal: 2\/7 vs 3\/6<br>\r\n1\/24 - FINALS<br>"
+  },
+  {
+      "newsid": "81",
+      "newscat": "main",
+      "date": "1358635693",
+      "closed": "0",
+      "title": "CageMatch 2013 Season Policy Changes",
+      "author": "Chuck McMahon",
+      "text": "There are two policy changes for the new 2013 season.<br>\r\n<br>\r\n1. Teams may no longer call a time-out.  The \\\"time out\\\" has been used, on average, less than once a year for the past several years.  Teams have not consistently taken advantage of the time-out since around 2003.  So, while it\\'s a classic CageMatch rule, it is dying due to lack of interest.<br>\r\n<br>\r\n2. We are eliminating the pre-show coin toss.  The returning champion will go second by default.  This is how the show originally worked.  I changed the policy in 2005 to try to make the show more competitive and make it more difficult for teams to go on long runs.  This didn\\'t work.  I think going second is only a very slight advantage and rarely, if ever, affects the outcome. The main reason for changing this policy back is a practical one.  It is nice for teams to know in advance if they are going first or second so they can plan accordingly for situations where a teammate is coming from another show, etc.  If the champion wants to go first, they may ask the other team if they\\'d like to switch, and the other team can accept if they choose.  Any such switch should be confirmed with the host upon arrival.  The call time for CageMatch remains 10:30 PM for both teams.<br>\r\n<br>\r\nThanks and see you at CageMatch!\r\n"
+  },
+  {
+      "newsid": "82",
+      "newscat": "main",
+      "date": "1359178655",
+      "closed": "0",
+      "title": "Congrats to What I Did For Love!",
+      "author": "",
+      "text": "What I Did For Love has won the 2012 Tournament of Champions!  A packed house of 14,400 CageMatch fans enjoyed a great matchup between WIDFL and Airwolf.  UCBW Correspondent Chugger Deets even managed to get an autograph from Abra Tabak!  It was a banner night. Congrats to all tournament teams!"
+  },
+  {
+      "newsid": "83",
+      "newscat": "main",
+      "date": "1383590931",
+      "closed": "0",
+      "title": "2013 Tournament Schedule",
+      "author": "CageMatch NYC",
+      "text": "12\/5 - Scrambled Legs (1) vs. The Law Firm (8)<br>\r\n12\/12 - Namaste (2) vs. Fuck That Shit (7)<br>\r\n12\/19 - Death by Roo Roo (3) vs. What I Did For Love (6)<br>\r\n12\/26 - Jews vs. Christians<br>\r\n1\/2 - Grandma\u2019s Ashes (4) vs. The Stepfathers (5)<br>\r\n1\/9 - Semifinal: 1\/8 vs 4\/5<br>\r\n1\/16 - Semifinal: 2\/7 vs 3\/6<br>\r\n1\/23 - FINALS<br>"
+  },
+  {
+      "newsid": "84",
+      "newscat": "main",
+      "date": "1390545781",
+      "closed": "0",
+      "title": "Congrats to Death By Roo Roo!",
+      "author": "CageMatch NYC",
+      "text": "Congratulations to Death by Roo Roo for winning the 2013 tournament!  This is the team's 4th victory.  The team cut down the net and enjoyed room temperature Nachos Bellgrande in front of a sold out house.  What a night!"
+  },
+  {
+      "newsid": "85",
+      "newscat": "main",
+      "date": "1417539002",
+      "closed": "0",
+      "title": "2014 Tournament Schedule",
+      "author": "Chuck McMahon",
+      "text": "12\/4 - Fuck That Shit (1) vs. Rizzo (8) <br>\r\n12\/11 - Grandma's Ashes (2) vs. Airwolf (7) <br>\r\n12\/18 - Jimmy Fedora (3) vs. Warren (6) <br>\r\n1\/8 -  The Enemy (4) vs. My Privacy (5) <br>\r\n1\/15 - Semifinal: 1\/8 vs 4\/5 <br>\r\n1\/22 - Semifinal: 2\/7 vs 3\/6 <br>\r\n1\/29 - FINALS <br>"
+  },
+  {
+      "newsid": "86",
+      "newscat": "main",
+      "date": "1422646078",
+      "closed": "0",
+      "title": "Congratulations to The Enemy!",
+      "author": "CageMatch NYC",
+      "text": "Congratulations to The Enemy for winning the 2014 tournament!  This is the first Harold team to win in over a decade, defeating Grandma's Ashes.  The team cut down the net and enjoyed room temperature Nachos Bellgrande in front of a sold out house.  Both teams had great shows and we set a new attendance record of 14,403.  What a night!"
+  },
+  {
+      "newsid": "87",
+      "newscat": "main",
+      "date": "1422824837",
+      "closed": "0",
+      "title": "How CageMatch is Booked",
+      "author": "CageMatch NYC",
+      "text": "CageMatch is booked by Charlie Todd on a month to month basis.  All UCB house improv teams are booked as well as regularly occurring house improv shows.  Teams that win 3 Indie CageMatches are booked.  In the fall at the end of the season, there are usually 2-4 slots open.  These slots are generally filled with teams that had good seasons the year prior but were not automatically booked (and are still existing, active teams) or with other active, established teams who people tell Charlie deserve a CageMatch, usually in the backroom of McManus in the fall."
+  },
+  {
+      "newsid": "88",
+      "newscat": "main",
+      "date": "1448036021",
+      "closed": "0",
+      "title": "2015 Tournament Schedule",
+      "author": "CageMatch NYC",
+      "text": "12\/3 -  Area 52 (1) vs. Higgins (8)<br>\r\n12\/10 - Slamball (2) vs. Rizzo (7)<br>\r\n12\/17 - Fuck That Shit (3) vs. What I Did For Love (6)<br>\r\n1\/7 -  Bucky (4) vs. Women and Men (5)<br>\r\n1\/14 - Semifinal: 1\/8 vs 4\/5<br>\r\n1\/21 - Semifinal: 2\/7 vs 3\/6<br>\r\n1\/28 - FINALS<br>\r\n\r\n"
+  },
+  {
+      "newsid": "89",
+      "newscat": "main",
+      "date": "1454105420",
+      "closed": "0",
+      "title": "Congratulations to Fuck That Shit!",
+      "author": "CageMatch NYC",
+      "text": "Congratulations to Fuck That Shit for winning the 2015 tournament!  In their third tournament appearance, FTS narrowly defeated Women and Men 109 to 101.  The team cut down the net and enjoyed room temperature Nachos Bellgrande in front of a sold out house.  Both teams had great shows and we set a new attendance record of 14,404.  What a night!"
+  },
+  {
+      "newsid": "90",
+      "newscat": "main",
+      "date": "1480350616",
+      "closed": "0",
+      "title": "2016 Tournament Schedule",
+      "author": "Chuck McMahon",
+      "text": "12\/1 - Play In Match - Blush vs. Grandma's Ashes<br>\r\n<br>\r\n12\/8 - Fuck That Shit (1) - vs. Winner of Play In Match (8)<br>\r\n12\/15 - Mannequin Room (2) vs. Women & Men (7)<br>\r\n<br>\r\n12\/22 - Jews vs. Christians<br>\r\n<br>\r\n12\/29 - Rumpleteaser (3) vs. Slingshot (6)<br>\r\n1\/5 - The Curfew (4) vs. Area 52 (5)<br>\r\n1\/12 - Semifinal: 1\/8 vs 4\/5<br>\r\n1\/19 - Semifinal: 2\/7 vs 3\/6<br>\r\n1\/26 - FINALS<br>"
+  },
+  {
+      "newsid": "91",
+      "newscat": "main",
+      "date": "1485539185",
+      "closed": "0",
+      "title": "Congratulations to Fuck That Shit!",
+      "author": "CageMatch NYC",
+      "text": "Congratulations to Fuck That Shit for winning the 2016 tournament!  FTS defeated Rumpleteaser 131 to 87, giving them the championship for the 2nd year in a row.  The team cut down the net in their \"One Shining Moment\" and enjoyed room temperature Nachos Bellgrande in front of a sold out house.  Both teams had great shows and we set a new attendance record of 14,405.  What a night!"
+  },
+  {
+      "newsid": "92",
+      "newscat": "main",
+      "date": "1512750039",
+      "closed": "0",
+      "title": "2017 Tournament Schedule",
+      "author": "Chuck McMahon",
+      "text": "\r\n\r\n12\/7- Rumpleteaser (1) - vs. Miles From Pete (8)<br>\r\n12\/14 - What I did for Love (2) vs. Airwolf (7)<br>\r\n12\/21 - Funky Hard Beats (3) vs. The Stepfathers (6)<br>\r\n<br>\r\n12\/28 - Jews vs. Christians<br>\r\n<br>\r\n1\/4 - 2 Puerto Ricans (4) vs. Physically Bold (5)<br>\r\n1\/11 - Semifinal: 1\/8 vs 4\/5<br>\r\n1\/18 - Semifinal: 2\/7 vs 3\/6<br>\r\n1\/25 - FINALS<br>"
+  },
+  {
+      "newsid": "93",
+      "newscat": "main",
+      "date": "1517556074",
+      "closed": "0",
+      "title": "Congratulations to What I Did For Love!",
+      "author": "Chugger Deets",
+      "text": "Congratulations to What I Did For Love for winning the 2017 tournament! WIDFL defeated Rumpleteaser 95 to 53, giving them a second Championship (first was the 2012 tournament). The team cut down the net in their \"One Shining Moment\" and enjoyed room temperature 7-11 Nachos with Cheese in front of a sold out house. Both teams had great shows and we set a new attendance record of 14,406. What a night!"
+  },
+  {
+      "newsid": "94",
+      "newscat": "main",
+      "date": "1521817226",
+      "closed": "0",
+      "title": "Exhibition Cage Match: The New York Yankees vs The New York Mets! - March 29, 2018",
+      "author": "Chugger Deets & Uncle Eddie",
+      "text": "A special Exhibition Cage Match is coming this Thursday (March 29th)!\r\n\r\nThe flowers are blooming and the snow is melting so that means one thing - Opening Day! Yes, it's March, but somehow it's baseball season and the Mets-Yankees rivalry has come to the UCB Theater on Opening Day of the Baseball Season. Come see a team of the city's best Yankee fan improvisers (posers) battle it out against the city's best Mets fan improvisers (losers). \r\n\r\nEach team will compete for your votes to win the first annual CitiBike Series Trophy. Those in attendance will have a chance to win prizes including autographed Mets and Yankees memorabilia, tickets for an upcoming game, and baseball junk.\r\n\r\nDon't worry about standing for the National Anthem, there will be none.\r\n\r\nMets: Sean Hart, Jon Dimakopoulous, Anthony Apruzzese, Rudy Behrens, Bill Schaefer, Corey Gibbs, Jesse Lee, Eric Gersen\r\n\r\nYankees: Bob Vulfov, James Dwyer, Murf Meyer, Brian Urreta, Rebekah Bentley, Lou Gonzalez, Yoni Lotan, Bridgette Rizkalla, Frank Marasco, Will Jacobs\r\n\r\nGet your Tickets here: https:\/\/hellskitchen.ucbtheatre.com\/performance\/59813"
+  },
+  {
+      "newsid": "95",
+      "newscat": "main",
+      "date": "1523637399",
+      "closed": "0",
+      "title": "The New York Yankees are the 2018 CitiBike Series Champions",
+      "author": "Chugger Deets & Uncle Eddie",
+      "text": "Congratulations to the New York Yankees on their win over the New York Mets  in the historic first annual exhibition Cage Match for the CitiBike Series Trophy Title (in the form of a belt). Two wonderful improv shows and plenty of major-injury-free wiffle bat home run derby action. Thanks to everyone that participated in and witnessed all the fun!"
+  },
+  {
+      "newsid": "96",
+      "newscat": "main",
+      "date": "1534780108",
+      "closed": "0",
+      "title": "TIE!",
+      "author": "Uncle Eddie and Chugger Deets",
+      "text": "Last week's Cage Match between returning champ Too Damn Much and challenger Promises ended with a tie score! Wowza! Official Cage Match Rule Number 9 states, in relevant part, \"In the event of a tie, there will be a rematch the following week.\" So this coming week's bout will be a Cage RE-Match between these two great teams. Come see Too Damn Much and Promises at it again this Thursday at 11:00 P.M.!\r\n\r\nThis is the first tie score at Cage Match since the March 10, 2005 contest between America! and Krompf. View the historical score and see which team won the rematch here: http:\/\/www.cage-match.com\/index.php?option=scores&season=2005\r\n\r\n"
+  }
+  ]

@@ -1,26 +1,27 @@
 module Api
   module V1
-    class TeamsController < ApplicationController
+    class PostsController < ApplicationController
       def index
-        teams = Team.order('name ASC')
+        posts = Post.order('published_at DESC')
         render json: {
           status: 'SUCCESS',
-          message: 'Loaded Teams',
-          data: teams }, status: :ok
+          message: 'Loaded Posts',
+          data: posts }, status: :ok
       end
 
       def show
         begin
-          team = Team.find(params[:id])
+          post = Post.find(params[:id])
           render json: {
             status: 'SUCCESS',
-            message: 'Loaded Team',
-            data: team }, status: :ok
+            message: 'Loaded Post',
+            data: post 
+          }, status: :ok
         rescue
           render json: {
             error: 'not_found',
             status: 'NOT_FOUND',
-            message: 'Team not found'
+            message: 'Post not found'
           }, status: :not_found
         end
       end
