@@ -1,5 +1,9 @@
+# frozen_string_literal: true
+
+# app/admin/posts.rb
 ActiveAdmin.register Post do
-  permit_params :title, :author, :category, :text, :cagematch_id, :published_at, :admin_user_id
+  permit_params :title, :author, :category, :text, :cagematch_id,
+                :published_at, :admin_user_id
 
   filter :cagematch
   filter :title
@@ -12,11 +16,15 @@ ActiveAdmin.register Post do
   scope :unpublished
 
   action_item :publish, only: :show do
-    link_to "Publish", publish_admin_post_path(post), method: :put unless post.published_at?
+    unless post.published_at?
+      link_to 'Publish', publish_admin_post_path(post), method: :put
+    end
   end
 
   action_item :unpublish, only: :show do
-    link_to "Unpublish", unpublish_admin_post_path(post), method: :put if post.published_at?
+    if post.published_at?
+      link_to 'Unpublish', unpublish_admin_post_path(post), method: :put
+    end
   end
 
   index do
@@ -44,7 +52,7 @@ ActiveAdmin.register Post do
             collection: AdminUser.all.collect { |user| [user.email, user.id] }
       input :category,
             as: :select,
-            collection: Post.select(:category).distinct.collect { |post| post.category }
+            collection: Post.select(:category).distinct.collect(&:category)
     end
     actions
   end

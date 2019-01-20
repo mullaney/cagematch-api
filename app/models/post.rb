@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# app/models/post.rb
 class Post < ApplicationRecord
   belongs_to :cagematch
   belongs_to :admin_user
@@ -11,6 +14,6 @@ class Post < ApplicationRecord
   scope :published, -> { where.not(published_at: nil) }
 
   def excerpt
-    self.text.truncate(50, separator: ' ')
+    text.truncate(50, separator: ' ')
   end
 end
