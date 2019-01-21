@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# app/models/cagematch.rb
 class Cagematch < ApplicationRecord
   validates :title, presence: true
   validates :slug, presence: true

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 ActiveAdmin.register Cagematch do
   permit_params :title, :slug, :description
 
