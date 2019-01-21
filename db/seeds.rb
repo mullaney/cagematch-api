@@ -26,10 +26,16 @@ end
 
 puts teams.count.to_s + ' teams added'
 
+passkey = if Rails.env.production? && process.env.FIRST_ADMIN_PASSWORD.present?
+            process.env.FIRST_ADMIN_PASSWORD
+          else
+            'password'
+          end
+
 admin_user = AdminUser.create!(
   email: 'kvinklly@gmail.com',
-  password: 'password',
-  password_confirmation: 'password'
+  password: passkey,
+  password_confirmation: passkey
 )
 
 file = File.read(File.dirname(__FILE__) + '/json_seeds/posts.json')
@@ -47,4 +53,4 @@ posts.each do |post|
   )
 end
 
-puts posts.count.to_s + ' teams added'
+puts posts.count.to_s + ' posts added'
