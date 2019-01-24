@@ -20,11 +20,17 @@ module Api
           message: 'Loaded Team',
           data: team }, status: :ok
       rescue StandardError
-        render json: {
+        render json: data_not_found('Team'), status: :not_found
+      end
+
+      private
+
+      def data_not_found(model)
+        {
           error: 'not_found',
           status: 'NOT_FOUND',
-          message: 'Team not found'
-        }, status: :not_found
+          message: "#{model} not found"
+        }
       end
     end
   end

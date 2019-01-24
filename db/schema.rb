@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_01_19_234215) do
+ActiveRecord::Schema.define(version: 2019_01_21_200607) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -49,6 +49,22 @@ ActiveRecord::Schema.define(version: 2019_01_19_234215) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "fights", force: :cascade do |t|
+    t.string "tagline"
+    t.string "location"
+    t.string "season"
+    t.text "notes"
+    t.datetime "start_time"
+    t.boolean "is_exhibition"
+    t.bigint "winner_id"
+    t.bigint "cagematch_id"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.integer "fightid"
+    t.index ["cagematch_id"], name: "index_fights_on_cagematch_id"
+    t.index ["winner_id"], name: "index_fights_on_winner_id"
+  end
+
   create_table "posts", force: :cascade do |t|
     t.string "title", null: false
     t.string "author"
@@ -69,9 +85,12 @@ ActiveRecord::Schema.define(version: 2019_01_19_234215) do
     t.bigint "cagematch_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.integer "teamid"
     t.index ["cagematch_id"], name: "index_teams_on_cagematch_id"
   end
 
+  add_foreign_key "fights", "cagematches"
+  add_foreign_key "fights", "teams", column: "winner_id"
   add_foreign_key "posts", "admin_users"
   add_foreign_key "posts", "cagematches"
   add_foreign_key "teams", "cagematches"

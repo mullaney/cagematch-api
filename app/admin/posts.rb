@@ -38,10 +38,10 @@ ActiveAdmin.register Post do
     actions
   end
 
-  form title: 'Create/Edit a blog post' do |f|
+  form do |f|
     f.object.admin_user ||= current_admin_user
     f.object.category ||= 'main'
-    f.object.cagematch_id = 1
+    f.object.cagematch_id ||= 1
     inputs 'Details' do
       input :cagematch
       input :title

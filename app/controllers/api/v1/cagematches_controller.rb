@@ -21,11 +21,17 @@ module Api
           data: cagematch
         }, status: :ok
       rescue StandardError
-        render json: {
+        render json: data_not_found('Cagematch'), status: :not_found
+      end
+
+      private
+
+      def data_not_found(model)
+        {
           error: 'not_found',
           status: 'NOT_FOUND',
-          message: 'Cagematch not found'
-        }, status: :not_found
+          message: "#{model} not found"
+        }
       end
     end
   end

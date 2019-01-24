@@ -3,24 +3,27 @@
 require 'rails_helper'
 
 RSpec.describe Api::V1::CagematchesController, type: :controller do
-  let(:valid_attributes) { { title: 'Title', slug: 'my-slug' } }
-
-  let(:valid_session) { {} }
-
   describe 'api/v1' do
     describe 'GET #index' do
       it 'returns a success response' do
-        Cagematch.create! valid_attributes
-        get :index, params: {}, session: valid_session
+        get :index, params: {}
         expect(response).to be_successful
       end
     end
 
     describe 'GET #show' do
+      let(:cagematch) { create(:cagematch) }
       it 'returns a success response' do
-        cagematch = Cagematch.create! valid_attributes
-        get :show, params: { id: cagematch.to_param }, session: valid_session
+        get :show, params: { id: cagematch.to_param }
         expect(response).to be_successful
+      end
+
+      it 'returns data about the correct cagematch' do
+        get :show, params: { id: cagematch.to_param }
+        cagematch_response = JSON.parse(response.body)['data']
+        expect(cagematch_response['title']).to eq(cagematch[:title])
+        expect(cagematch_response['slug']).to eq(cagematch[:slug])
+        expect(cagematch_response['description']).to eq(cagematch[:description])
       end
     end
   end
