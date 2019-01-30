@@ -29,7 +29,7 @@ end
 
 puts teams.length.to_s + ' teams added'
 
-passkey = if Rails.env.production? && process.env.FIRST_ADMIN_PASSWORD.present?
+passkey = if Rails.env.production? && ENV['FIRST_ADMIN_PASSWORD'].present?
             process.env.FIRST_ADMIN_PASSWORD
           else
             'password'
