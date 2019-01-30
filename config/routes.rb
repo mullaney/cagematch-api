@@ -10,6 +10,7 @@ Rails.application.routes.draw do
       resources :cagematches, only: %i[index show]
       resources :teams, only: %i[index show]
       resources :posts, only: %i[index show]
+      resources :fights, only: %i[index show]
     end
   end
 end

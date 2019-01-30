@@ -2,26 +2,26 @@
 
 module Api
   module V1
-    # app/controllers/api/v1/posts_controller.rb
-    class PostsController < ApplicationController
+    # app/controllers/api/v1/fights_controller.rb
+    class FightsController < ApplicationController
       def index
-        posts = Post.order('published_at DESC')
+        fights = Fight.order('start_time DESC')
         render json: {
           status: 'SUCCESS',
-          message: 'Loaded Posts',
-          data: posts
+          message: 'Loaded Fights',
+          data: fights
         }, status: :ok
       end
 
       def show
-        post = Post.find(params[:id])
+        fight = Fight.find(params[:id])
         render json: {
           status: 'SUCCESS',
-          message: 'Loaded Post',
-          data: post
+          message: 'Loaded Fight',
+          data: fight
         }, status: :ok
       rescue StandardError
-        render json: data_not_found('Post'), status: :not_found
+        render json: data_not_found('Fight'), status: :not_found
       end
 
       private
