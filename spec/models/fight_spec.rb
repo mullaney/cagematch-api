@@ -52,11 +52,11 @@ RSpec.describe Fight, type: :model do
     end
   end
 
-  describe 'last_start_time' do
-    let(:last_fight) { create(:fight) }
-    it 'should return the latest start time from the fights' do
+  describe 'last_fight' do
+    let(:fight_first) { create(:fight) }
+    it 'should return properties from the last scheduled fight' do
       fight.update_attributes(start_time: nil)
-      expect(fight.last_start_time).to eq(last_fight.start_time)
+      expect(fight.last_fight.start_time).to eq(fight_first.start_time)
     end
   end
 end
