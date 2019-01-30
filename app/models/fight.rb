@@ -25,6 +25,14 @@ class Fight < ApplicationRecord
     save
   end
 
+  def last_fight
+    Fight.where(cagematch_id: cagematch_id).order('start_time ASC').last
+  end
+
+  def last_location
+    last_fight.location
+  end
+
   def last_start_time
     fights = Fight.where(cagematch_id: cagematch_id).order('start_time ASC')
     fights.last.start_time
