@@ -16,4 +16,8 @@ RSpec.describe Season, type: :model do
     expect(season).to_not be_valid
   end
 
+  it 'is not valid without an associated cagematch' do
+    season.cagematch_id = nil
+    expect(season).to_not be_valid
+  end
 end
