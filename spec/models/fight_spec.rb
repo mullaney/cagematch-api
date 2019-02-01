@@ -9,10 +9,8 @@ RSpec.describe Fight, type: :model do
     expect(fight).to be_valid
   end
 
-  it 'is not valid without a season' do
-    fight.season = ''
-    expect(fight).to_not be_valid
-    fight.season = nil
+  it 'is not valid without an associated season' do
+    fight.season_id = nil
     expect(fight).to_not be_valid
   end
 

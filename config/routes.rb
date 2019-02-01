@@ -11,6 +11,7 @@ Rails.application.routes.draw do
       resources :teams, only: %i[index show]
       resources :posts, only: %i[index show]
       resources :fights, only: %i[index show]
+      resources :seasons, only: %i[index show]
     end
   end
 end
