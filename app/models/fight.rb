@@ -3,9 +3,9 @@
 # app/models/fight.rb
 class Fight < ApplicationRecord
   belongs_to :cagematch
+  belongs_to :season
   has_one :team, as: :winner
 
-  validates :season, presence: true
   validates :start_time, presence: true
 
   def winner
