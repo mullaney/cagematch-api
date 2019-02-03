@@ -3,6 +3,6 @@ FactoryBot.define do
     votes { 1 }
     team
     fight
-    winner { false }
+    status { 'lost' }
   end
 end
