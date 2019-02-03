@@ -4,7 +4,8 @@ ActiveAdmin.register Fight do
   menu parent: 'Cagematch Resources'
 
   permit_params :tagline, :cagematch_id, :season_id, :notes,
-                :start_time, :is_exhibition, :winner_id
+                :start_time, :is_exhibition, :winner_id,
+                scores_attributes: %i[id votes team_id status _destroy]
 
   filter :season
   filter :cagematch
@@ -36,6 +37,15 @@ ActiveAdmin.register Fight do
               as: :select, collection: Team.order('lower(name) ASC').map { |t| [t.name, t.id] },
               label: 'Winner',
               hint: 'If the winner is from the previous week, leave this blank'
+    end
+    f.inputs do
+      f.has_many  :scores, heading: 'Scores',
+                  allow_destroy: true,
+                  new_record: true do |a|
+                    a.input :team_id, as: :select, collection: Team.order('lower(name) ASC').map { |t| [t.name, t.id] }
+                    a.input :votes
+                    a.input :status, as: :select, collection: %i[won lost tied]
+                  end
     end
     actions
   end

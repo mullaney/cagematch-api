@@ -5,6 +5,7 @@ class Fight < ApplicationRecord
   belongs_to :cagematch
   belongs_to :season
   has_many :scores
+  accepts_nested_attributes_for :scores, allow_destroy: true
 
   validates :start_time, presence: true
 

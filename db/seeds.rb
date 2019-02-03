@@ -159,7 +159,7 @@ module Db
           votes: score['score'],
           team_id: found_team['id'],
           fight_id: found_fight['id'],
-          winner: score['decision'] == 'Win'
+          status: new_status_code(score['decision'])
         )
       end
       puts returned_scores.length.to_s + ' scores added'
@@ -168,9 +168,18 @@ module Db
 
     def find_fights_with_no_scores(fights, scores)
       fights.each do |fight|
-        unless scores.find { |score| score['fight_id'] == fight.id }
-          p fight
-        end
+        p fight unless scores.find { |sc| sc['fight_id'] == fight.id }
+      end
+    end
+
+    def new_status_code(old_code)
+      case old_code
+      when 'Lose'
+        'lost'
+      when 'Tie'
+        'tied'
+      when 'Win'
+        'won'
       end
     end
   end

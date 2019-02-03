@@ -25,11 +25,11 @@ RSpec.describe Score, type: :model do
     expect(score).to be_valid
   end
 
-  # winner should confirm the winner, however, this seemingly redundant
+  # status should confirm who won the cagematch, however, this seemingly redundant
   # field is for the unlikely situation that a team had more votes and
-  # is disqualified
-  it 'is valid with no value for winner' do
-    score.winner = nil
+  # is disqualified or that there was a tie, but still a declared winner
+  it 'is valid with no value for status' do
+    score.status = nil
     expect(score).to be_valid
   end
 end
