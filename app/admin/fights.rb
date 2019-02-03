@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 ActiveAdmin.register Fight do
+  menu parent: 'Cagematch Resources'
+
   permit_params :tagline, :cagematch_id, :season_id, :notes,
                 :start_time, :is_exhibition, :winner_id
 
@@ -23,13 +25,17 @@ ActiveAdmin.register Fight do
     f.object.is_exhibition ||= false
     f.object.location ||= f.object.last_fight.location
     f.object.season_id ||= f.object.last_fight.season_id
-    inputs 'Details' do
-      input :season
-      input :start_time
-      input :tagline
-      input :notes
-      input :is_exhibition
-      input :location
+    f.inputs 'Details' do
+      f.input :season
+      f.input :start_time
+      f.input :tagline, hint: 'Optional: a subtitle for a particular fight, i.e. The Rumble in the Jungle'
+      f.input :notes
+      f.input :is_exhibition, hint: 'For fights that should not end up in the regular season stats'
+      f.input :location
+      f.input :winner_id,
+              as: :select, collection: Team.order('lower(name) ASC').map { |t| [t.name, t.id] },
+              label: 'Winner',
+              hint: 'If the winner is from the previous week, leave this blank'
     end
     actions
   end

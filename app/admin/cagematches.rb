@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
 ActiveAdmin.register Cagematch do
+  menu parent: 'Cagematch Resources'
+
   permit_params :title, :slug, :description
 
   filter :title

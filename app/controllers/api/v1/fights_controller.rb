@@ -15,10 +15,11 @@ module Api
 
       def show
         fight = Fight.find(params[:id])
+        scores = Score.where(fight_id: fight[:id])
         render json: {
           status: 'SUCCESS',
           message: 'Loaded Fight',
-          data: fight
+          data: { fight: fight, scores: scores }
         }, status: :ok
       rescue StandardError
         render json: data_not_found('Fight'), status: :not_found

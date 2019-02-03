@@ -15,10 +15,11 @@ module Api
 
       def show
         season = Season.find(params[:id])
+        fights = Fight.where(season_id: season[:id])
         render json: {
           status: 'SUCCESS',
           message: 'Loaded Season',
-          data: season
+          data: { season: season, fights: fights }
         }, status: :ok
       rescue StandardError
         render json: data_not_found('Season'), status: :not_found

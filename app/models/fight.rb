@@ -4,7 +4,7 @@
 class Fight < ApplicationRecord
   belongs_to :cagematch
   belongs_to :season
-  has_one :team, as: :winner
+  has_many :scores
 
   validates :start_time, presence: true
 
@@ -23,6 +23,10 @@ class Fight < ApplicationRecord
       raise StandardError
     end
     save
+  end
+
+  def competitors
+    Team.joins(:scores).where(scores: { fight_id: id })
   end
 
   def last_fight
