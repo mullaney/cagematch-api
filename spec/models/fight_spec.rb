@@ -57,4 +57,13 @@ RSpec.describe Fight, type: :model do
       expect(fight.last_fight.start_time).to eq(fight_first.start_time)
     end
   end
+
+  describe 'competitors' do
+    let!(:score0) { create(:score, fight_id: fight.id) }
+    let!(:score1) { create(:score, fight_id: fight.id) }
+    it 'should return the teams associated with all scores' do
+      expect(fight.competitors.length).to eq(2)
+      expect(fight.competitors[0][:name]).to eq(score0.team[:name])
+    end
+  end
 end

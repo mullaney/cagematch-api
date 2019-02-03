@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_02_01_124915) do
+ActiveRecord::Schema.define(version: 2019_02_02_000113) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -80,6 +80,17 @@ ActiveRecord::Schema.define(version: 2019_02_01_124915) do
     t.index ["cagematch_id"], name: "index_posts_on_cagematch_id"
   end
 
+  create_table "scores", force: :cascade do |t|
+    t.integer "votes"
+    t.bigint "team_id"
+    t.bigint "fight_id"
+    t.boolean "winner"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["fight_id"], name: "index_scores_on_fight_id"
+    t.index ["team_id"], name: "index_scores_on_team_id"
+  end
+
   create_table "seasons", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", null: false
@@ -103,6 +114,8 @@ ActiveRecord::Schema.define(version: 2019_02_01_124915) do
   add_foreign_key "fights", "teams", column: "winner_id"
   add_foreign_key "posts", "admin_users"
   add_foreign_key "posts", "cagematches"
+  add_foreign_key "scores", "fights"
+  add_foreign_key "scores", "teams"
   add_foreign_key "seasons", "cagematches"
   add_foreign_key "teams", "cagematches"
 end

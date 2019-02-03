@@ -13,7 +13,9 @@ module Db
       teams = seed_teams(cagematch)
       fights_data = load_fights_data
       seasons = seed_seasons(fights_data, cagematch)
-      seed_fights(fights_data, cagematch, seasons, teams)
+      fights = seed_fights(fights_data, cagematch, seasons, teams)
+      scores = seed_scores(teams, fights)
+      find_fights_with_no_scores(fights, scores)
     end
 
     private
@@ -84,8 +86,8 @@ module Db
         )
       end
 
-      puts teams.length.to_s + ' teams added'
-      teams
+      puts returned_teams.length.to_s + ' teams added'
+      returned_teams
     end
 
     def load_fights_data
@@ -113,7 +115,7 @@ module Db
           winner_id = nil
         else
           found_team = teams.find do |team|
-            team['teamid'] == fight['champid']
+            team['teamid'].to_s == fight['champid']
           end
           winner_id = found_team['id']
         end
@@ -138,6 +140,38 @@ module Db
       end
 
       puts fights.length.to_s + ' fights added'
+      fights
+    end
+
+    def seed_scores(teams, fights)
+      file = File.read(File.dirname(__FILE__) + '/json_seeds/scores.json')
+      scores = JSON.parse(file)
+
+      returned_scores = []
+      scores.each do |score|
+        found_team = teams.find { |team| team['teamid'].to_s == score['teamid'] }
+        found_fight = fights.find { |fight| fight['fightid'].to_s == score['fightid'] }
+        if found_fight.nil?
+          p score
+          next
+        end
+        returned_scores << Score.create!(
+          votes: score['score'],
+          team_id: found_team['id'],
+          fight_id: found_fight['id'],
+          winner: score['decision'] == 'Win'
+        )
+      end
+      puts returned_scores.length.to_s + ' scores added'
+      returned_scores
+    end
+
+    def find_fights_with_no_scores(fights, scores)
+      fights.each do |fight|
+        unless scores.find { |score| score['fight_id'] == fight.id }
+          p fight
+        end
+      end
     end
   end
 end

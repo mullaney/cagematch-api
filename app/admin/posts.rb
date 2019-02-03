@@ -2,6 +2,8 @@
 
 # app/admin/posts.rb
 ActiveAdmin.register Post do
+  menu parent: 'Cagematch Resources'
+
   permit_params :title, :author, :category, :text, :cagematch_id,
                 :published_at, :admin_user_id
 
