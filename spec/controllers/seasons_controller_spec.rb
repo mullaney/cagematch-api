@@ -28,15 +28,15 @@ RSpec.describe Api::V1::SeasonsController, type: :controller do
 
       it 'returns data about the correct season' do
         get :show, params: { id: season.to_param }
-        season_response = JSON.parse(response.body)['data']['season']
-        expect(season_response['name']).to eq(season[:name])
+        season_data = JSON.parse(response.body)['data']
+        expect(season_data['name']).to eq(season[:name])
       end
 
       it 'returns a list fights for that season' do
-        get :show, params: { id: season.to_param }
-        fights = JSON.parse(response.body)['data']['fights']
-        expect(fights.length).to eq(1)
-        expect(fights.first['location']).to eq(fight[:location])
+        get :show, params: { id: season.to_param, all: true }
+        season_data = JSON.parse(response.body)['data']
+        expect(season_data['fights'].length).to eq(1)
+        expect(season_data['fights'].first['location']).to eq(fight[:location])
       end
     end
   end
