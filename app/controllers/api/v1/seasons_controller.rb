@@ -14,12 +14,21 @@ module Api
       end
 
       def show
-        season = Season.find(params[:id])
-        fights = Fight.where(season_id: season[:id])
+        if params[:all] == 'true'
+          season = Season.where(id: params[:id])
+                         .includes([fights: [scores: :team]])
+                         .first
+          season_data = season.as_json(
+            include: { fights: { include: { scores: { include: :team } } } }
+          )
+        else
+          season_data = Season.find(params[:id])
+        end
+
         render json: {
           status: 'SUCCESS',
           message: 'Loaded Season',
-          data: { season: season, fights: fights }
+          data: season_data
         }, status: :ok
       rescue StandardError
         render json: data_not_found('Season'), status: :not_found
