@@ -40,7 +40,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'activeadmin', '~> 1.4.3'
 
 # Plus integrations with:
-gem 'devise', '~> 4.5'
+gem 'devise', '~> 4.7'
 gem 'cancan', '~> 1.6.10'
 gem 'draper', '~> 3.0.1'
 gem 'pundit', '~> 2.0.0'
