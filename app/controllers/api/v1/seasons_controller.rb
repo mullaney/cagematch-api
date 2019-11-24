@@ -16,11 +16,14 @@ module Api
       def show
         if params[:all] == 'true'
           season = Season.where(id: params[:id])
-                         .includes([fights: [scores: :team]])
+                         .includes([fights: [:scores]])
                          .first
-          season_data = season.as_json(
-            include: { fights: { include: { scores: { include: :team } } } }
-          )
+          season_data = {
+            season: season.as_json(
+              include: { fights: { include: :scores } }
+            ),
+            teams: teams(params[:id])
+          }
         else
           season_data = Season.find(params[:id])
         end
@@ -42,6 +45,22 @@ module Api
           status: 'NOT_FOUND',
           message: "#{model} not found"
         }
+      end
+
+      def teams(season_id)
+        sql = %{
+          SELECT DISTINCT t.*
+          FROM seasons AS s
+          JOIN fights AS f
+            ON f.season_id = s.id
+          JOIN scores AS sc
+            ON sc.fight_id = f.id
+          JOIN teams AS t
+            ON sc.team_id = t.id
+          WHERE s.id = #{season_id}
+        }
+
+        ActiveRecord::Base.connection.execute(sql)
       end
     end
   end
