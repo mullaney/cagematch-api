@@ -44,6 +44,7 @@ gem 'devise', '~> 4.5'
 gem 'cancan', '~> 1.6.10'
 gem 'draper', '~> 3.0.1'
 gem 'pundit', '~> 2.0.0'
+gem 'newrelic_rpm'
 
 # <----
 
