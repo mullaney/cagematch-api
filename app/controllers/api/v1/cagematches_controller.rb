@@ -16,9 +16,7 @@ module Api
       def show
         cagematch = Cagematch.find(params[:id])
         render json: {
-          status: 'SUCCESS',
-          message: 'Loaded Cagematch',
-          data: cagematch
+          cagematch: cagematch
         }, status: :ok
       rescue StandardError
         render json: data_not_found('Cagematch'), status: :not_found
